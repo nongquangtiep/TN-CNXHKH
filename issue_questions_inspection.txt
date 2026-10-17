@@ -1,0 +1,101 @@
+
+============================================
+[Bài 1] Câu 34: Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:
+Start idx in doc: 179
+Elements count: 4
+   P: '	Đảng Cộng Sản ' -> [: '	'] [B,C:EE0000: 'Đảng Cộng Sản ']
+   P: '1, Giai cấp công nhân Việt Nam là lực lượng nòng cốt của tầng lớp nhân dân Việt Nam' -> [: '1, Giai cấp công nhân Việt Nam là lực lượng nòng cốt của '] [B,C:EE0000: 'tầng lớp nhân dân '] [: 'Việt Nam']
+   P: '2, Giai cấp công nhân Việt Nam hiện nay gắn bó mật thiết với các giai cấp, tầng lớp trong xã hội' -> [: '2, Giai cấp công nhân Việt Nam hiện nay gắn bó mật thiết với các '] [B,C:EE0000: 'giai cấp, tầng lớp'] [: ' trong xã hội']
+   P: '3, Giai cấp công nhân Việt Nam có mối quan hệ mật thiết với giai cấp nông dân và tầng lớp trí thức trong xã hội' -> [: '3, Giai cấp công nhân Việt Nam có mối quan hệ mật thiết với giai cấp nông dân và '] [B,C:EE0000: 'tầng lớp trí thức'] [C:EE0000: ' '] [: 'trong xã hội']
+
+============================================
+[Bài 2] Câu 15: Câu 15: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3:
+Start idx in doc: 287
+Elements count: 3
+   P: '[Quá độ trực tiếp] từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển.' -> [B,C:EE0000: '[Quá độ trực tiếp]'] [C:EE0000: ' '] [: 'từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước '] [U,H:YELLOW (7): 'đã trải qua'] [: ' chủ nghĩa tư bản phát triển.']
+   P: '[Quá độ gián tiếp] từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển.' -> [B,C:EE0000: '[Quá độ gián tiếp]'] [C:EE0000: ' '] [: 'từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước '] [U,H:YELLOW (7): 'chưa trải qua'] [: ' chủ nghĩa tư bản phát triển.']
+   P: 'Thực chất của [thời kỳ quá độ] lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa' -> [: 'Thực chất của '] [B,C:EE0000: '[thời kỳ quá độ]'] [C:EE0000: ' '] [: 'lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa']
+
+============================================
+[Bài 4] Câu 1: Câu 1: Trong cơ cấu xã hội – giai cấp của thời kỳ quá độ lên chủ nghĩa xã hội, lực lượng tiêu biểu cho phương thức sản xuất mới giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hoá, hiện đại hoá đất nước là:
+Start idx in doc: 659
+Elements count: 4
+   P: 'Giai cấp công nhân' -> [C:EE0000: 'Giai cấp công nhân']
+   P: 'Giai cấp nông dân' -> [: 'Giai cấp nông dân']
+   P: 'Đội ngũ doanh nhân' -> [: 'Đội ngũ doanh nhân']
+   P: 'Tầng lớp trí thức' -> [: 'Tầng lớp trí thức']
+
+============================================
+[Bài 4] Câu 21: Câu 21: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp gồm mấy giai cấp, tầng lớp cơ bản?
+Start idx in doc: 765
+Elements count: 4
+   P: '4' -> [: '4']
+   P: '3' -> [: '3']
+   P: '6' -> [: '6']
+   P: '5' -> [C:EE0000: '5']
+
+============================================
+[Bài 4] Câu 22: Câu 22 :Dưới góc độ chính trị - xã hội, môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội nào?
+Start idx in doc: 770
+Elements count: 4
+   P: 'Cơ cấu xã hội – nghề nghiệp' -> [: 'Cơ cấu xã hội – nghề nghiệp']
+   P: 'Cơ cấu xã hội – dân cư' -> [: 'Cơ cấu xã hội – dân cư']
+   P: 'Cơ cấu xã hội – dân tộc' -> [: 'Cơ cấu xã hội – dân tộc']
+   P: 'Cơ cấu xã hội – giai cấp' -> [C:EE0000: 'Cơ cấu xã hội – giai cấp']
+
+============================================
+[Bài 4] Câu 23: Câu 23: Theo C. Mác – Ph. Ăngghen, "người bạn đồng minh tự nhiên" của giai cấp công nhân là ai?
+Start idx in doc: 775
+Elements count: 4
+   P: 'Tầng lớp trí thức' -> [: 'Tầng lớp trí thức']
+   P: 'Đội ngũ doanh nhân' -> [: 'Đội ngũ doanh nhân']
+   P: 'Giai cấp nông dân' -> [C:EE0000: 'Giai cấp nông dân']
+   P: 'Nhân dân lao động' -> [: 'Nhân dân lao động']
+
+============================================
+[Bài 4] Câu 24: Câu 24 : Nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?
+Start idx in doc: 780
+Elements count: 4
+   P: 'Đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức, phát triển bền vững' -> [C:EE0000: 'Đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức, phát triển bền vững']
+   P: 'Giữ vững lập trường tư tưởng của giai cấp công nhân, giữ vững vai trò lãnh đạo của Đảng' -> [: 'Giữ vững lập trường tư tưởng của giai cấp công nhân, giữ vững vai trò lãnh đạo của Đảng']
+   P: 'Tăng cường phát triển kinh tế kết hợp với phát triển quân sự gắn với phát triển ngoại giao' -> [: 'Tăng cường phát triển kinh tế kết hợp với phát triển quân sự gắn với phát triển ngoại giao']
+   P: 'Xây dựng nền văn hoá tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa giá trị văn hoá của nhân loại và thời đại' -> [: 'Xây dựng nền văn hoá tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa giá trị văn hoá của nhân loại và thời đại']
+
+============================================
+[Bài 4] Câu 25: Câu 25 : Chọn ý sai về nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa:
+Start idx in doc: 785
+Elements count: 4
+   P: 'Thực hiện hợp đồng kinh tế giữa doanh nghiệp nhà nước và nông dân.' -> [: 'Thực hiện hợp đồng kinh tế giữa doanh nghiệp nhà nước và nông dân.']
+   P: 'Xây dựng hệ thống chính sách phát triển nông nghiệp, nông dân, nông thôn.' -> [: 'Xây dựng hệ thống chính sách phát triển nông nghiệp, nông dân, nông thôn.']
+   P: 'Xây dựng hệ thống chính sách an sinh xã hội.' -> [C:EE0000: 'Xây dựng hệ thống chính sách an sinh xã hội.']
+   P: 'Ứng dụng khoa học kỹ thuật vào sản xuất nông nghiệp.' -> [: 'Ứng dụng khoa học kỹ thuật vào sản xuất nông nghiệp.']
+
+============================================
+[Bài 4] Câu 34: Câu 34 : Những phương hướng nào sau đây nhằm phát triển cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)
+Start idx in doc: 827
+Elements count: 4
+   P: 'Xây dựng và hoàn thiện chính sách xã hội tổng thể ' -> [C:EE0000: 'Xây dựng và hoàn thiện chính sách xã hội tổng thể ']
+   P: 'Giảm giáo dục ở những vùng không có điều kiện kinh tế' -> [: 'Giảm giáo dục ở những vùng không có điều kiện kinh tế']
+   P: 'Tăng dân số ở khu công nghiệp' -> [: 'Tăng dân số ở khu công nghiệp']
+   P: 'Đẩy mạnh công nghiệp hoá, hiện đại hoá ' -> [C:EE0000: 'Đẩy mạnh công nghiệp hoá, hiện đại hoá ']
+
+============================================
+[Bài 4] Câu 35: Câu 35 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)
+Start idx in doc: 832
+Elements count: 4
+   P: 'Giảm vai trò kinh tế trong xã hội' -> [: 'Giảm vai trò kinh tế trong xã hội']
+   P: 'Tạo sự đồng thuận giữa các lực lượng ' -> [C:EE0000: 'Tạo sự đồng thuận giữa các lực lượng ']
+   P: 'Tăng vai trò tôn giáo đối với các giai cấp, tầng lớp' -> [: 'Tăng vai trò tôn giáo đối với các giai cấp, tầng lớp']
+   P: 'Phát huy tinh thần đoàn kết ' -> [C:EE0000: 'Phát huy tinh thần đoàn kết ']
+
+============================================
+[Bài 5] Câu 17: Câu 17: Theo quan điểm của chủ nghĩa Mác – Lênin, để thực hiện được bình đẳng dân tộc cần phải làm gì? (Chọn 2 đáp án)
+Start idx in doc: 941
+Elements count: 1
+   P: 'A. Phải đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô vanh
+B. Thủ tiêu tình trạng áp bức giai cấp, trên cơ sở đó xoá bỏ tình trạng áp bức dân tộc 
+C. Phải liên kết với các nước đế quốc lớn
+D. Phải duy trì chế độ tư hữu về tư liệu sản xuất' -> [C:EE0000: 'A. Phải đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô vanh'] [C:EE0000: '
+B. Thủ tiêu tình trạng áp bức giai cấp, trên cơ sở đó xoá bỏ tình trạng áp bức dân tộc '] [: '
+'] [: 'C. Phải liên kết với các nước đế quốc lớn'] [: '
+D. Phải duy trì chế độ tư hữu về tư liệu sản xuất']

@@ -1,0 +1,321 @@
+
+========================================
+[Bài 1] Câu 31: Câu 31: Chọn đáp án đúng hoặc sai với từng phát biểu sau.
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1, Giai cấp công nhân Việt Nam hiện nay đã tăng cả về số lượng và chất lượng.' -> '1, Giai cấp công nhân Việt Nam hiện nay đã tăng cả về số lượng và chất lượng.'(c=None,b=None)
+   P: 'Đúng    	     	' -> 'Đúng   '(c=EE0000,b=True) ' '(c=None,b=True) '	'(c=None,b=True) '     '(c=None,b=None) '	'(c=None,b=None)
+   P: '2, Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại.' -> '2, Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại.'(c=None,b=None)
+   P: 'Đúng    	     	' -> 'Đúng    '(c=EE0000,b=True) '	'(c=None,b=True) '     '(c=None,b=None) '	'(c=None,b=None)
+   P: '3, Sự trưởng thành của Đảng Cộng sản là nhân tố chính trị quan trọng của giai cấp công nhân' -> '3, Sự trưởng thành của Đảng Cộng sản là nhân tố chính trị quan trọng của giai cấp công nhân'(c=None,b=None)
+   P: 'Đúng      	     	 ' -> 'Đúng     '(c=EE0000,b=True) ' '(c=None,b=True) '	     '(c=None,b=True) '	'(c=None,b=True) ' '(c=None,b=None)
+   P: '4, Đảng Cộng sản là nhân tố quan trọng khách quan, quan trọng nhất để giai cấp nhân thực hiện thắng lợi sứ mệnh lịch sử của mình.' -> '4, Đảng Cộng sản là nhân tố quan trọng khách quan, quan trọng nhất để giai cấp nhân thực hiện thắng lợi sứ mệnh lịch sử của mình.'(c=None,b=None)
+   P: 'Sai   	' -> 'Sai  '(c=EE0000,b=True) ' '(c=None,b=True) '	'(c=None,b=True)
+
+========================================
+[Bài 1] Câu 32: Câu 32: Chọn đáp án đúng hoặc sai với từng phát biểu sau.
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1, Giai cấp công nhân Việt Nam không có sự liên kết với các lực lượng cách mạng khác.' -> '1, Giai cấp công nhân Việt Nam không có sự liên kết với các lực lượng cách mạng khác.'(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=True)
+   P: '2, Giai cấp công nhân Việt Nam là tầng lớp giàu có, ít chịu áp bức, bóc lột.' -> '2, Giai cấp công nhân Việt Nam là tầng lớp giàu có, ít chịu áp bức, bóc lột.'(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=True)
+   P: '3, Giai cấp công nhân Việt Nam đến nay đã tăng nhanh về số lượng và chất lượng.' -> '3, Giai cấp công nhân Việt Nam đến nay đã tăng nhanh về số lượng và chất lượng.'(c=None,b=None)
+   P: 'Đúng    	     	 ' -> 'Đúng '(c=EE0000,b=True) '   '(c=None,b=True) '	'(c=None,b=True) '     '(c=None,b=None) '	 '(c=None,b=None)
+   P: '4, Giai cấp công nhân Việt Nam hiện nay đa dạng về cơ cấu nghề nghiệp, có mặt trong mọi thành phần kinh tế' -> '4, Giai cấp công nhân Việt Nam hiện nay đa dạng về cơ cấu nghề nghiệp, có mặt trong mọi thành phần kinh tế'(c=None,b=None)
+   P: 'Đúng    	     	 ' -> 'Đúng   '(c=EE0000,b=True) ' '(c=None,b=True) '	'(c=None,b=True) '     '(c=None,b=None) '	 '(c=None,b=None)
+
+========================================
+[Bài 1] Câu 33: Câu 33: Hãy kéo thả các yếu tố sau đây vào cột tương ứng.
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 3x2:
+     Row: Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử | Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân.
+     Row: Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng | Địa vị kinh tế của giai cấp công nhân
+     Row: Đảng Cộng sản | Địa vị chính trị xã hội của giai cấp công nhân
+
+========================================
+[Bài 1] Câu 34: Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:
+Type hints: is_tf=False, has_table=False, is_drag=True
+   P: '	Đảng Cộng Sản ' -> '	'(c=None,b=None) 'Đảng Cộng Sản '(c=EE0000,b=True)
+   P: '1, Giai cấp công nhân Việt Nam là lực lượng nòng cốt của tầng lớp nhân dân Việt Nam' -> '1, Giai cấp công nhân Việt Nam là lực lượng nòng cốt của '(c=None,b=None) 'tầng lớp nhân dân '(c=EE0000,b=True) 'Việt Nam'(c=None,b=None)
+   P: '2, Giai cấp công nhân Việt Nam hiện nay gắn bó mật thiết với các giai cấp, tầng lớp trong xã hội' -> '2, Giai cấp công nhân Việt Nam hiện nay gắn bó mật thiết với các '(c=None,b=None) 'giai cấp, tầng lớp'(c=EE0000,b=True) ' trong xã hội'(c=None,b=None)
+   P: '3, Giai cấp công nhân Việt Nam có mối quan hệ mật thiết với giai cấp nông dân và tầng lớp trí thức trong xã hội' -> '3, Giai cấp công nhân Việt Nam có mối quan hệ mật thiết với giai cấp nông dân và '(c=None,b=None) 'tầng lớp trí thức'(c=EE0000,b=True) ' '(c=EE0000,b=None) 'trong xã hội'(c=None,b=None)
+
+========================================
+[Bài 1] Câu 35: Câu 35: chọn đáp án ( đúng hoặc sai) với từng phát biểu sau
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1, Giai cấp công nhân là những người lao động trực tiếp hay gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao. ' -> '1, Giai cấp công nhân là những người lao động trực tiếp hay gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao. '(c=None,b=None)
+   P: 'Đúng    	     	' -> 'Đúng'(c=EE0000,b=True) '    '(c=EE0000,b=None) '	'(c=EE0000,b=None) '     '(c=None,b=None) '	'(c=None,b=None)
+   P: '2: Giai cấp công nhân là chủ thể của quá trình sản xuất vật chất hiện đại.' -> '2: Giai cấp công nhân là chủ thể của quá trình sản xuất vật chất hiện đại.'(c=None,b=None)
+   P: 'Đúng    	     ' -> 'Đúng'(c=EE0000,b=True) '    '(c=None,b=None) '	     '(c=None,b=None)
+   P: '3: Giai cấp công nhân là giai cấp cách mạng và có tinh thần cách mạng triệt để.' -> '3: Giai cấp công nhân là giai cấp cách mạng và có tinh thần cách mạng triệt để.'(c=None,b=None)
+   P: 'Đúng    	     ' -> 'Đúng   '(c=EE0000,b=True) ' '(c=None,b=True) '	'(c=None,b=True) '     '(c=None,b=None)
+   P: '4: Đặc điểm nổi bật của giai cấp công nhân là lao động bằng phương thức nông nghiệp.' -> '4: Đặc điểm nổi bật của giai cấp công nhân là lao động bằng phương thức nông nghiệp.'(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=True)
+
+========================================
+[Bài 1] Câu 39: Câu 39 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 3x2:
+     Row: 1. Hình thức ______ là hình thức dân chủ đại diện, được thực hiện do nhân dân "ủy quyền", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra. | dân chủ gián tiếp
+     Row: 2. Hình thức ______ là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội. | dân chủ trực tiếp
+     Row: 3. Chế độ ______ ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945. | dân chủ nhân dân
+
+========================================
+[Bài 2] Câu 15: Câu 15: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3:
+Type hints: is_tf=False, has_table=False, is_drag=True
+   P: '[Quá độ trực tiếp] từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển.' -> '[Quá độ trực tiếp]'(c=EE0000,b=True) ' '(c=EE0000,b=None) 'từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước '(c=None,b=None) 'đã trải qua'(c=None,b=None) ' chủ nghĩa tư bản phát triển.'(c=None,b=None)
+   P: '[Quá độ gián tiếp] từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển.' -> '[Quá độ gián tiếp]'(c=EE0000,b=True) ' '(c=EE0000,b=None) 'từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước '(c=None,b=None) 'chưa trải qua'(c=None,b=None) ' chủ nghĩa tư bản phát triển.'(c=None,b=None)
+   P: 'Thực chất của [thời kỳ quá độ] lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa' -> 'Thực chất của '(c=None,b=None) '[thời kỳ quá độ]'(c=EE0000,b=True) ' '(c=EE0000,b=None) 'lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa'(c=None,b=None)
+
+========================================
+[Bài 2] Câu 19: Câu 19: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: 'Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại chủ yếu là tư tưởng vô sản.' -> 'Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại chủ yếu là tư tưởng vô sản.'(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: 'Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để trên lĩnh vực kinh tế.' -> 'Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để trên lĩnh vực kinh tế.'(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: 'Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nền kinh tế nhiều thành phần.' -> 'Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nền kinh tế nhiều thành phần.'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: 'Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nhiều giai cấp, tầng lớp.' -> 'Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nhiều giai cấp, tầng lớp.'(c=None,b=None)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+
+========================================
+[Bài 2] Câu 20: Câu 20: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: 'Thời kỳ quá độ lên chủ nghĩa xã hội có sự tồn tại song song giữa các yếu tố cũ và yếu tố mới' -> 'Thời kỳ quá độ lên chủ nghĩa xã hội có sự tồn tại song song giữa các yếu tố cũ và yếu tố mới'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: 'Trong thời kỳ quá độ lên chủ nghĩa xã hội kinh tế tư nhân bị xóa bỏ hoàn toàn' -> 'Trong thời kỳ quá độ lên chủ nghĩa xã hội kinh tế tư nhân bị xóa bỏ hoàn toàn'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+   P: 'Trong thời kỳ quá độ lên chủ nghĩa xã hội tồn tại nhiều thành phần kinh tế' -> 'Trong thời kỳ quá độ lên chủ nghĩa xã hội tồn tại nhiều thành phần kinh tế'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: 'Thời kỳ quá độ lên chủ nghĩa xã hội chỉ có kinh tế nhà nước tồn tại và phát triển' -> 'Thời kỳ quá độ lên chủ nghĩa xã hội chỉ có kinh tế nhà nước tồn tại và phát triển'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+
+========================================
+[Bài 2] Câu 21: Câu 21 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1) Học thuyết hình thái kinh tế- xã hội của chủ nghĩa Mác- Lênin đã chỉ rõ: Lịch sử xã hội đã trải qua 4 hình thái kinh tế- xã hôi' -> '1) Học thuyết hình thái kinh tế- xã hội của chủ nghĩa Mác- Lênin đã chỉ rõ: Lịch sử xã hội đã trải qua 4 hình thái kinh tế- xã hôi'(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: '2) Quá độ gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển' -> '2) Quá độ gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển'(c=None,b=None)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+   P: '3) Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa' -> '3) Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa'(c=None,b=None)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+   P: '4) Quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển' -> '4) Quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển'(c=None,b=None)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+
+========================================
+[Bài 2] Câu 24: Câu 24: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: 'Chủ nghĩa xã hội ở Việt Nam không chấp nhận kinh tế tư nhân tồn tại song song với kinh tế nhà nước' -> 'Chủ nghĩa xã hội ở Việt Nam không chấp nhận kinh tế tư nhân tồn tại song song với kinh tế nhà nước'(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: 'Việc "bỏ qua" chế độ tư bản chủ nghĩa là không kế thừa bất kỳ yếu tố tích cực nào của chủ nghĩa tư bản' -> 'Việc "bỏ qua" chế độ tư bản chủ nghĩa là không kế thừa bất kỳ yếu tố tích cực nào của chủ nghĩa tư bản'(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: 'Việt Nam quá độ lên chủ nghĩa xã hội từ một nền sản xuất nhỏ, bỏ qua chế độ tư bản chủ nghĩa' -> 'Việt Nam quá độ lên chủ nghĩa xã hội từ một nền sản xuất nhỏ, bỏ qua chế độ tư bản chủ nghĩa'(c=None,b=None)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+   P: 'Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân' -> 'Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân'(c=None,b=None)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+
+========================================
+[Bài 2] Câu 34: Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1) Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa là một trong những phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam ' -> '1) Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa là một trong những phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam '(c=None,b=None)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+   P: '2) Việt Nam thực hiện quá độ trực tiếp đi lên chủ nghĩa xã hội ' -> '2) Việt Nam thực hiện quá độ trực tiếp đi lên chủ nghĩa xã hội '(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: '3) Chủ nghĩa xã hội ở Việt Nam không bao gồm việc xây dựng nền kinh tế thị trường ' -> '3) Chủ nghĩa xã hội ở Việt Nam không bao gồm việc xây dựng nền kinh tế thị trường '(c=None,b=None)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: '4) Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là sự lựa chọn duy nhất đúng, khoa học, phản ánh đúng quy luật phát triển khách quan của cách mạng Việt Nam trong thời đại ngày nay Đúng' -> '4) Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là sự lựa chọn duy nhất đúng, khoa học, phản ánh đúng quy luật phát triển khách quan của cách mạng Việt Nam trong thời đại ngày nay '(c=None,b=None) 'Đúng'(c=EE0000,b=None)
+
+========================================
+[Bài 2] Câu 35: Câu 35: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 3x2:
+     Row: 1.Việt Nam xây dựng nền_______có sự điều tiết của nhà nước. | kinh tế thị trường
+     Row: 2. Một đặc trưng chính trị của chủ nghĩa xã hội ________ xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân. | nhà nước pháp quyền
+     Row: 3. Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam tôn trọng, bảo vệ và bảo đảm _______ . | quyền con người.
+
+========================================
+[Bài 2] Câu 41: Câu 41: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 3x2:
+     Row: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là con đường cách mạng_____ | tất yếu khách quan.
+     Row: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa, tức là bỏ qua việc xác lập _____ của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa. | vị trí thống trị
+     Row: Việt Nam thực hiện _____ đi lên chủ nghĩa xã hội. | quá độ gián tiếp
+
+========================================
+[Bài 2] Câu 42: Câu 42 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 3x2:
+     Row: _______từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển. | Quá độ trực tiếp
+     Row: Thực chất của _______lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa. | Thời kỳ quá độ
+     Row: _______từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển. | Quá độ gián tiếp
+
+========================================
+[Bài 2] Câu 43: Câu 43 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 về trái dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 4x2:
+     Row: 1. Mỗi kiểu dân chủ trong lịch sử đều mang ______ nhất định | bản chất giai cấp
+     Row: 2. ______ là hình thức dân chủ ra đời từ cách mạng tư sản | dân chủ tư sản
+     Row: 3. ______ là nền dân chủ cao hơn về chất so với nền dân chủ có trong lịch sử nhân loại | dân chủ xã hội chủ nghĩa
+     Row: 4. Nền dân chủ chủ nô, gắn với chế độ ______. | chiếm hữu nô lệ
+
+========================================
+[Bài 3] Câu 30: Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1Nền dân chủ chủ nô, gắn với chế độ chiếm hữu nô lệ.' -> '1Nền dân chủ chủ nô, gắn với chế độ chiếm hữu nô lệ.'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '2) Dân chủ xã hội chủ nghĩa là công cụ để giai cấp công nhân thực hiện chuyên chính với các giai cấp khác' -> '2) Dân chủ xã hội chủ nghĩa là công cụ để giai cấp công nhân thực hiện chuyên chính với các giai cấp khác'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+   P: '3) Dân chủ tư sản là hình thức dân chủ gắn với quyền lực chính trị của giai cấp tư sản' -> '3) Dân chủ tư sản là hình thức dân chủ gắn với quyền lực chính trị của giai cấp tư sản'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '4) Với tư cách là một hình thái nhà nước, một chế độ chính trị thì trong lịch sử nhân loại, cho đến nay có năm nền (chế độ) dân chủ' -> '4) Với tư cách là một hình thái nhà nước, một chế độ chính trị thì trong lịch sử nhân loại, cho đến nay có năm nền (chế độ) dân chủ'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+
+========================================
+[Bài 3] Câu 31: Câu 31 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1) Dân chủ xã hội chủ nghĩa là sự phủ định sạch trơn những thành tựu dân chủ trước đó' -> '1) Dân chủ xã hội chủ nghĩa là sự phủ định sạch trơn những thành tựu dân chủ trước đó'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+   P: '2) Trong xã hội tư bản, dân chủ thực chất thuộc về giai cấp tư sản' -> '2) Trong xã hội tư bản, dân chủ thực chất thuộc về giai cấp tư sản'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '3) Dân chủ là một phạm trù mang tính lịch sử, gắn với sự xuất hiện và phát triển của nhà nước' -> '3) Dân chủ là một phạm trù mang tính lịch sử, gắn với sự xuất hiện và phát triển của nhà nước'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '4) Dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản' -> '4) Dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+
+========================================
+[Bài 3] Câu 33: Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1) Trong hoạt động của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam, các cơ quan của nhà nước không được phân quyền rõ ràn' -> '1) Trong hoạt động của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam, các cơ quan của nhà nước không được phân quyền rõ ràn'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+   P: '2) Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các thức dân chủ gián tiếp và dân chủ trực tiếp' -> '2) Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các thức dân chủ gián tiếp và dân chủ trực tiếp'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '3) Đảng ta khẳng định một trong những đặc trưng của chủ nghĩa xã hội Việt Nam là do nhân dân làm chủ' -> '3) Đảng ta khẳng định một trong những đặc trưng của chủ nghĩa xã hội Việt Nam là do nhân dân làm chủ'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '4) Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm' -> '4) Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+
+========================================
+[Bài 3] Câu 34: Câu 34 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1) Chế độ dân chủ nhân dân ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945' -> '1) Chế độ dân chủ nhân dân ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '2) Hình thức dân chủ trực tiếp là hình thức dân chủ đại diện, được thực hiện do nhân dân "ủy quyền", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra' -> '2) Hình thức dân chủ trực tiếp là hình thức dân chủ đại diện, được thực hiện do nhân dân "ủy quyền", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+   P: '3)Năm 1976, tên nước được đổi thành Cộng hòa xã hội chủ nghĩa Việt Nam' -> '3)Năm 1976, tên nước được đổi thành Cộng hòa xã hội chủ nghĩa Việt Nam'(c=None,b=None)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '4) Hình thức dân chủ gián tiếp là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội' -> '4) Hình thức dân chủ gián tiếp là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội'(c=None,b=None)
+   P: 'Sai ' -> 'Sai '(c=EE0000,b=None)
+
+========================================
+[Bài 4] Câu 29: Câu 29: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 về trái dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 3x2:
+     Row: Nền dân chủ xã hội chủ nghĩa là nền dân chủ mang bản chất của ______ | giai cấp công nhân
+     Row: Dân chủ xã hội chủ nghĩa là sự kết hợp giữa hình thức dân chủ đại diện và ______ | dân chủ trực tiếp
+     Row: Dân chủ xã hội chủ nghĩa bảo đảm phát huy đầy đủ ______ của nhân dân trên tất cả các lĩnh vực | quyền làm chủ
+
+========================================
+[Bài 4] Câu 30: Câu 30: Kéo thả các đáp án khớp với các phát biểu từ 1 - 4 về trái dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 4x2:
+     Row: Dân chủ đại diện được thể hiện qua việc ______ | bầu cử Quốc hội
+     Row: Hình thức dân chủ gián tiếp là hình thức ______ | dân chủ đại diện
+     Row: Nhân dân là ______ tối cao trong Nhà nước pháp quyền | chủ thể quyền lực
+     Row: Một nguyên tắc cốt lõi của nhà nước pháp quyền là ______ | thượng tôn pháp luật
+
+========================================
+[Bài 4] Câu 31: Câu 31 : Kéo thả các khái niệm khớp với các phát biểu về cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 4x2:
+     Row: Lực lượng quan trọng troChính sách an sinh xã hộing cơ cấu xã hội - giai cấp | Đội ngũ trí thức
+     Row: Lực lượng mới trong cơ cấu xã hội - giai cấp | Đội ngũ doanh nhân
+     Row: Chính sách hỗ trợ cơ cấu xã hội - giai cấp | Chính sách an sinh xã hội
+     Row: Giai cấp trung tâm trong cơ cấu xã hội - giai cấp | Giai cấp công nhân
+
+========================================
+[Bài 4] Câu 39: Câu 39 : Kéo thả các đáp án đúng ứng với từng phát biểu sau đây về vị trí, vai trò của các giai cấp, tầng lớp trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 4x2:
+     Row: Đội ngũ trí thức là lực lượng______ | sáng tạo đặc biệt
+     Row: Giai cấp công nhân Việt Nam có vai trò______ | đặc biệt quan trọng
+     Row: Giai cấp nông dân cùng với nông nghiệp, nông thôn có vị trí______ | chiến lược quan trọng
+     Row: Đội ngũ doanh nhân được Đảng ta chủ trương xây dựng thành một______ | đội ngũ vững mạnh
+
+========================================
+[Bài 4] Câu 40: Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 5x2:
+     Row: 1) Thành phần/yếu tố của liên minh | 2) Nội dung/phương hướng của liên minh
+     Row: Giai cấp công nhân | Nội dung kinh tế
+     Row: Giai cấp nông dân | Nội dung chính trị
+     Row: Tầng lớp phụ nữ | Xóa đói giảm nghèo
+     Row: Đảng Cộng sản | Tăng cường liên minh
+
+========================================
+[Bài 4] Câu 41: Câu 41 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: ' 1) Giai cấp công nhân là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam  Đúng' -> ' 1) Giai cấp công nhân là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam '(c=None,b=None) ' '(c=None,b=None) 'Đúng'(c=EE0000,b=None)
+   P: '2) Tầng lớp phụ nữ không tham gia cơ cấu xã hội - giai cấp  Sai' -> '2) Tầng lớp phụ nữ không tham gia cơ cấu xã hội - giai cấp '(c=None,b=None) ' '(c=None,b=None) 'Sai'(c=EE0000,b=None)
+   P: '3) Chính sách tôn giáo là chính sách chính hỗ trợ cơ cấu xã hội - giai cấp  Sai ' -> '3) Chính sách tôn giáo là chính sách chính hỗ trợ cơ cấu xã hội - giai cấp '(c=None,b=None) ' Sai '(c=EE0000,b=None)
+   P: '4) Đội ngũ trí thức đóng vai trò quan trọng trong cơ cấu xã hội - giai cấp  Đúng ' -> '4) Đội ngũ trí thức đóng vai trò quan trọng trong cơ cấu xã hội - giai cấp '(c=None,b=None) ' Đúng '(c=EE0000,b=None)
+
+========================================
+[Bài 5] Câu 28: Câu 28: Kéo thả các yếu tố liên quan vào các cột tương ứng:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 4x2:
+     Row: 1) Đặc trưng của dân tộc (quốc gia) | 2) Đặc trưng của dân tộc (tộc người)
+     Row: Ngôn ngữ chung | Ý thức tự giác tộc người
+     Row: Lãnh thổ chung | Văn hóa đặc thù
+     Row: Tâm lý dân tộc | Ngôn ngữ tộc người
+
+========================================
+[Bài 5] Câu 30: Câu 30 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 5x2:
+     Row: 1) Nội dung/phương hướng của liên minh | 2) Thành phần/yếu tố của liên minh
+     Row: Xóa đói giảm nghèo | Giai cấp nông dân
+     Row: Nội dung kinh tế | Giai cấp công nhân
+     Row: Tăng cường liên minh | Tầng lớp phụ nữ
+     Row: Nội dung chính trị | Đảng Cộng sản
+
+========================================
+[Bài 5] Câu 31: Câu 31: Kéo thả các đáp án đúng tương ứng với các phát biểu về nội dung Cương lĩnh dân tộc của Chủ nghĩa Mác - Lênin:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 4x2:
+     Row: Đây là quyền thiêng liêng của các dân tộc, không phân biệt dân tộc lớn hay nhỏ | Quyền bình đẳng dân tộc
+     Row: Giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể | Liên hiệp công nhân các dân tộc lại
+     Row: Yếu tố thúc đẩy bình đẳng dân tộc là gì? | Cơ sở pháp lý
+     Row: Thực hiện quyền tự quyết dân tộc phải đứng vững trên lập trường của giai cấp nào? | Giai cấp công nhân
+
+========================================
+[Bài 5] Câu 32: Câu 32: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1. Cương lĩnh dân tộc của Chủ nghĩa Mác-Lênin không đề cập đến bình đẳng dân tộc' -> '1'(c=None,b=True) '. '(c=None,b=True) 'Cương'(c=None,b=True) ' l'(c=None,b=True) 'ĩnh dân tộc của Chủ nghĩa Mác-Lênin không đề cập đến bình đẳng dân tộc'(c=None,b=True)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: '2. Lãnh thổ chung là đặc trưng của dân tộc quốc gia' -> '2'(c=None,b=True) '.'(c=None,b=True) ' '(c=None,b=True) 'Lãnh thổ chung là đặc trưng của dân tộc quốc gia'(c=None,b=True)
+   P: 'Đúng ' -> 'Đúng '(c=EE0000,b=None)
+   P: '3. Quyền tự quyết dân tộc không bao gồm nội dung liên hiệp các dân tộc lại' -> '3. '(c=None,b=True) 'Quyền tự quyết dân tộc không bao gồm nội dung liên hiệp các dân tộc lại'(c=None,b=True)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: '4. Dân tộc (tộc người) có ngôn ngữ riêng' -> '4'(c=None,b=True) '. '(c=None,b=True) 'Dân tộc (tộc người) có ngôn ngữ riêng'(c=None,b=True)
+   P: ' Đúng' -> ' Đúng'(c=EE0000,b=None)
+
+========================================
+[Bài 5] Câu 33: Câu 33 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+Type hints: is_tf=True, has_table=False, is_drag=False
+   P: '1) Dân tộc (tộc người) có ý thức tự giác tộc người' -> '1) Dân tộc (tộc người) có ý thức tự giác tộc người'(c=None,b=True)
+   P: ' Đúng' -> ' '(c=None,b=True) 'Đúng'(c=EE0000,b=None)
+   P: '2) Đấu tranh chống chủ nghĩa Sô - vanh là giải pháp thực hiện bình đẳng dân tộc' -> '2) Đấu tranh chống chủ nghĩa Sô - vanh là giải pháp thực hiện bình đẳng dân tộc'(c=None,b=True)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+   P: '3) Tôn giáo là đặc trưng chính của dân tộc quốc gia' -> '3) Tôn giáo là đặc trưng chính của dân tộc quốc gia'(c=None,b=True)
+   P: 'Sai' -> 'Sai'(c=EE0000,b=None)
+   P: '4) Tâm lý dân tộc tạo nên bản sắc văn hóa dân tộc' -> '4) Tâm lý dân tộc tạo nên bản sắc văn hóa dân tộc'(c=None,b=True)
+   P: 'Đúng' -> 'Đúng'(c=EE0000,b=None)
+
+========================================
+[Bài 5] Câu 34: Câu 34: Kéo thả các đáp án khớp với các phát biểu về tôn giáo, tín ngưỡng dưới đây:
+Type hints: is_tf=False, has_table=True, is_drag=True
+   TABLE 4x2:
+     Row: Chủ nghĩa Mác-Lênin coi tín ngưỡng, tôn giáo là một phạm trù thuộc lĩnh vực nào của xã hội? | Hình thái ý thức xã hội
+     Row: Quan điểm của chủ nghĩa Mác – Lênin về tôn giáo là gì? | Tôn trọng tự do tôn giáo
+     Row: Bản chất của tôn giáo theo chủ nghĩa Mác – Lênin là gì? | Phản ánh hư ảo hiện thực khách quan
+     Row: Niềm tin và sự ngưỡng mộ của con người vào một lực lượng siêu nhiên, thần bí được gọi là gì? | Tín ngưỡng

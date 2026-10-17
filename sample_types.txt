@@ -1,0 +1,146 @@
+
+================ TYPE: single_choice ================
+{
+  "id": 1,
+  "lesson": "Bài 1",
+  "lesson_num": 1,
+  "q_num": 1,
+  "type": "single_choice",
+  "question": "Câu 1: Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là ai?",
+  "instruction": "Chọn 1 đáp án đúng nhất",
+  "options": [
+    "A. Xanh Ximông, Sáclơ Phuriê, Rôbớt Ôoen",
+    "B. Xanh Ximông, Sáclơ Phuriê, G. Mably",
+    "C. Xanh Ximông, Giăng Mêliê, Rôbớt Ôoen",
+    "D. Grắccơ Babớp, Xanh Ximông, Sáclơ Phuriê"
+  ],
+  "correct_answers": [
+    0
+  ]
+}
+
+================ TYPE: multiple_choice ================
+{
+  "id": 13,
+  "lesson": "Bài 1",
+  "lesson_num": 1,
+  "q_num": 13,
+  "type": "multiple_choice",
+  "question": "Câu 13: Đặc điểm nào sau đây thể hiện đúng bản chất của giai cấp công nhân? (Chọn 2 đáp án đúng)",
+  "instruction": "Chọn 2 đáp án đúng",
+  "options": [
+    "A. Luôn gắn bó với giai cấp địa chủ và tiểu thương",
+    "B. Có tính tổ chức và kỷ luật cao trong lao động sản xuất",
+    "C. Không sở hữu tư liệu sản xuất, sống bằng lao động làm thuê",
+    "D. Có trình độ học vấn thấp, chủ yếu làm việc tay chân"
+  ],
+  "correct_answers": [
+    1,
+    2
+  ]
+}
+
+================ TYPE: true_false ================
+{
+  "id": 31,
+  "lesson": "Bài 1",
+  "lesson_num": 1,
+  "q_num": 31,
+  "type": "true_false",
+  "question": "Câu 31: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
+  "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+  "items": [
+    {
+      "statement": "1, Giai cấp công nhân Việt Nam hiện nay đã tăng cả về số lượng và chất lượng.",
+      "correct": true
+    },
+    {
+      "statement": "2, Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại.",
+      "correct": true
+    },
+    {
+      "statement": "3, Sự trưởng thành của Đảng Cộng sản là nhân tố chính trị quan trọng của giai cấp công nhân",
+      "correct": true
+    },
+    {
+      "statement": "4, Đảng Cộng sản là nhân tố quan trọng khách quan, quan trọng nhất để giai cấp nhân thực hiện thắng lợi sứ mệnh lịch sử của mình.",
+      "correct": false
+    }
+  ]
+}
+
+================ TYPE: drag_drop_categorize ================
+{
+  "id": 33,
+  "lesson": "Bài 1",
+  "lesson_num": 1,
+  "q_num": 33,
+  "type": "drag_drop_categorize",
+  "question": "Câu 33: Hãy kéo thả các yếu tố sau đây vào cột tương ứng.",
+  "instruction": "Kéo hoặc chọn từng mục vào đúng cột tương ứng",
+  "categories": [
+    {
+      "title": "Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử",
+      "items": [
+        "Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng",
+        "Đảng Cộng sản"
+      ]
+    },
+    {
+      "title": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân.",
+      "items": [
+        "Địa vị kinh tế của giai cấp công nhân",
+        "Địa vị chính trị xã hội của giai cấp công nhân"
+      ]
+    }
+  ],
+  "all_items": [
+    {
+      "text": "Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng",
+      "category": "Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử"
+    },
+    {
+      "text": "Địa vị kinh tế của giai cấp công nhân",
+      "category": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân."
+    },
+    {
+      "text": "Đảng Cộng sản",
+      "category": "Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử"
+    },
+    {
+      "text": "Địa vị chính trị xã hội của giai cấp công nhân",
+      "category": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân."
+    }
+  ]
+}
+
+================ TYPE: drag_drop_match ================
+{
+  "id": 34,
+  "lesson": "Bài 1",
+  "lesson_num": 1,
+  "q_num": 34,
+  "type": "drag_drop_match",
+  "question": "Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
+  "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
+  "pairs": [
+    {
+      "left": "1, Giai cấp công nhân Việt Nam là lực lượng nòng cốt của ______ Việt Nam",
+      "right": "tầng lớp nhân dân"
+    },
+    {
+      "left": "2, Giai cấp công nhân Việt Nam hiện nay gắn bó mật thiết với các ______ trong xã hội",
+      "right": "giai cấp, tầng lớp"
+    },
+    {
+      "left": "3, Giai cấp công nhân Việt Nam có mối quan hệ mật thiết với giai cấp nông dân và ______ trong xã hội",
+      "right": "tầng lớp trí thức"
+    }
+  ],
+  "options_pool": [
+    "tầng lớp nhân dân",
+    "giai cấp, tầng lớp",
+    "tầng lớp trí thức",
+    "Đảng Cộng Sản"
+  ]
+}

@@ -1,0 +1,1047 @@
+[0000] P: BÀI 1
+[0001] P: Câu 1: Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là ai?
+[0002] P: A. Xanh Ximông, Sáclơ Phuriê, Rôbớt Ôoen
+[0003] P: B. Xanh Ximông, Sáclơ Phuriê, G. Mably
+[0004] P: C. Xanh Ximông, Giăng Mêliê, Rôbớt Ôoen
+[0005] P: D. Grắccơ Babớp, Xanh Ximông, Sáclơ Phuriê
+[0006] P: Câu 2: Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?
+[0007] P: A. Tình cảnh nước Anh
+[0008] P: B. Góp phần phê phán triết học pháp quyền của Héghen – Lời nói đầu
+[0009] P: C. Bộ tư bản
+[0010] P: D. Tuyên ngôn của Đảng Cộng sản
+[0011] P: Câu 3: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra sự diệt vong về kinh tế của chủ nghĩa tư bản?
+[0012] P: A. Chủ nghĩa duy vật lịch sử
+[0013] P: B. Học thuyết về giá trị thặng dư
+[0014] P: C. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân
+[0015] P: D. Chủ nghĩa duy vật biện chứng
+[0016] P: Câu 4: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra những hạn chế có tính lịch sử của chủ nghĩa xã hội không tưởng?
+[0017] P: A. Học thuyết về giá trị thặng dư
+[0018] P: B. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân
+[0019] P: C. Chủ nghĩa duy vật biện chứng
+[0020] P: D. Chủ nghĩa duy vật lịch sử
+[0021] P: Câu 5: Ph.Ăngghen đã đánh giá: "Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học". Hai phát kiến 
+[0022] P: A. Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư
+[0023] P: B. Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử
+[0024] P: C. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử
+[0025] P: D. Sứ mệnh lịch sử của giai cấp công nhân – Chủ nghĩa duy vật lịch sử
+[0026] P: Câu 6: Phạm trù nào được coi là cơ bản nhất và là xuất phát điểm của chủ nghĩa xã hội khoa học?
+[0027] P: A. Cách mạng xã hội chủ nghĩa
+[0028] P: B. Chuyên chính vô sản
+[0029] P: C. Sứ mệnh lịch sử của giai cấp công nhân
+[0030] P: D. Giai cấp công nhân
+[0031] P: Câu 7: Xét về phương thức lao động, phương thức sản xuất, giai cấp công nhân mang thuộc tính cơ bản nào?
+[0032] P: A. Là giai cấp trực tiếp hay gián tiếp vận hành máy móc có tính chất công nghiệp ngày càng hiện đại
+[0033] P: B. Có số lượng đông nhất trong dân cư.
+[0034] P: C. Giai cấp có tư liệu sản xuất nhiều nhất
+[0035] P: D. Là giai cấp tạo ra của cải vật chất làm giàu cho xã hội
+[0036] P: Câu 8: Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là:
+[0037] P: A. Giai cấp không có tư liệu sản xuất, đi làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư
+[0038] P: B. Giai cấp nghèo khổ nhất
+[0039] P: C. Giai cấp có số lượng đông trong dân cư
+[0040] P: D. Giai cấp tạo ra của cải cho xã hội
+[0041] P: Câu 9: Giai cấp công nhân Việt Nam ra đời vào thời gian nào?
+[0042] P: A. Trong cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp
+[0043] P: B. Trong cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp
+[0044] P: C. Những năm đầu thế kỷ 19.
+[0045] P: D. Trước khi thực dân Pháp xâm lược Việt Nam.
+[0046] P: Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?
+[0047] P: A. Hiệu quả lao động thấp
+[0048] P: B. Trình độ khoa học kỹ thuật chưa cao
+[0049] P: C. Tâm lý tiểu nông
+[0050] P: D. Số lượng còn ít
+[0051] P: Câu 11: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?
+[0052] P: A. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng
+[0053] P: B. Nâng cao nhận thức, kiên định quan điểm giai cấp công nhân là giai cấp lãnh đạo cách mạng thông qua đội tiên phong là
+[0054] P: C. Xây dựng giai cấp công nhân tăng về số lượng và chất lượng
+[0055] P: D. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng
+[0056] P: Câu 12: Theo Ph. Ăngghen: "Thực hiện nhiệm vụ giải phóng thế giới ấy, đó là sứ mệnh lịch sử của.........". Hãy chọn đáp 
+[0057] P: A. Giai cấp vô sản
+[0058] P: B. Giai cấp tiểu tư sản
+[0059] P: C. Giai cấp tư sản
+[0060] P: D. Giai cấp nông dân
+[0061] P: Câu 13: Đặc điểm nào sau đây thể hiện đúng bản chất của giai cấp công nhân? (Chọn 2 đáp án đúng)
+[0062] P: A. Luôn gắn bó với giai cấp địa chủ và tiểu thương
+[0063] P: B. Có tính tổ chức và kỷ luật cao trong lao động sản xuất
+[0064] P: C. Không sở hữu tư liệu sản xuất, sống bằng lao động làm thuê
+[0065] P: D. Có trình độ học vấn thấp, chủ yếu làm việc tay chân
+[0066] P: Câu 14: Giai cấp công nhân Việt Nam chủ yếu xuất thân từ tầng lớp nào? (Chọn 2 đáp án đúng)
+[0067] P: A. Giai cấp nông dân bị tước đoạt hết ruộng đất
+[0068] P: B. Thợ thủ công bị phá sản
+[0069] P: C. Tầng lớp địa chủ phong kiến
+[0070] P: D. Tầng lớp tư sản dân tộc
+[0071] P: Câu 15: Giai cấp công nhân Việt Nam có đặc điểm gì khác với giai cấp công nhân ở các nước tư bản? (Chọn 2 đáp án đúng)
+[0072] P: A. Chịu sự bóc lột của thực dân và phong kiến
+[0073] P: B. Xuất thân từ nông dân là chủ yếu
+[0074] P: C. Sở hữu tư liệu sản xuất trong xã hội
+[0075] P: D. Không có sự gắn kết với các giai cấp, tầng lớp khác
+[0076] P: Câu 16: Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?
+[0077] P: A. Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội.
+[0078] P: B. Là những quy luật kinh tế
+[0079] P: C. Là những quy luật văn hoá - xã hội.
+[0080] P: D. Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển của hình thái
+[0081] P: Câu 17: Đâu là nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình?
+[0082] P: A. Sự phát triển của giai cấp công nhân về chất lượng
+[0083] P: B. Liên minh giai cấp công nhân với giai cấp nông dân
+[0084] P: C. Sự phát triển của giai cấp công nhân về số lượng
+[0085] P: D. Đảng Cộng sản
+[0086] P: Câu 18: Tìm ý đúng để hoàn thiện luận điểm sau: Cùng với sự phát triển của khoa học và công nghệ ngày càng hiện đại, gia
+[0087] P: A. Giảm về số lượng và nâng cao về chất lượng.
+[0088] P: B. Tăng về số lượng và giảm về chất lượng.
+[0089] P: C. Tăng về số lượng và nâng cao về chất lượng.
+[0090] P: D. Giảm về số lượng và có trình độ sản xuất ngày càng cao.
+[0091] P: Câu 19: Điền từ còn thiếu vào chỗ trống: Giai cấp công nhân và nhân dân lao động là cơ sở..., cơ sở... của Đảng cộng sản
+[0092] P: A. Văn hoá - xã hội
+[0093] P: B. Kinh tế - xã hội
+[0094] P: C. Giai cấp - xã hội
+[0095] P: D. Chính trị - xã hội
+[0096] P: Câu 20 : Điền từ còn thiếu vào chỗ trống "Giai cấp công nhân Việt Nam thực hiện lãnh đạo cách mạng thông qua đội tiên ph
+[0097] P: A. Đảng Cộng sản Việt Nam
+[0098] P: B. Tổng liên đoàn lao động Việt Nam
+[0099] P: C. Tổ chức công đoàn
+[0100] P: D. Mặt trận tổ quốc Việt Nam
+[0101] P: Câu 21: Điểm then chốt để giúp giai cấp công nhân Việt Nam hiện nay thực hiện thành công sứ mệnh lịch sử của mình là:
+[0102] P: A. Phát triển giai cấp công nhân cả về số lượng và chất lượng
+[0103] P: B. Xây dựng khối liên minh công – nông
+[0104] P: C. Coi trọng công tác xây dựng, chỉnh đốn Đảng
+[0105] P: D. Trí thức hoá giai cấp công nhân
+[0106] P: Câu 22: Trong thời kỳ thuộc địa, giai cấp công nhân Việt Nam chủ yếu làm việc trong: (Chọn 2 đáp án đúng)
+[0107] P: A. Nhà máy, hầm mỏ do thực dân Pháp xây dựng
+[0108] P: B. Hợp tác xã nông nghiệp
+[0109] P: C. Xí nghiệp thủ công truyền thống
+[0110] P: D. Đồn điền cao su
+[0111] P: Câu 23 : Dấu hiệu đánh dấu sự trưởng thành vượt bậc của giai cấp công nhân với tư cách là giai cấp cách mạng là:
+[0112] P: A. Sự trưởng thành về trình độ kỹ thuật
+[0113] P: B. Sự trưởng thành về ý thức chính trị
+[0114] P: C. Sự trưởng thành về trình độ nhận thức
+[0115] P: D. Sự ra đời của Đảng Cộng sản
+[0117] P: Câu 24: Nội dung trực tiếp về văn hoá tư tưởng thể hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam là:
+[0118] P: A. Xây dựng con người mới xã hội chủ nghĩa
+[0119] P: B. Xây dựng nền giáo dục hiện đại
+[0120] P: C. Xây dựng nền văn hoá Việt Nam tiên tiến, đậm đà bản sắc dân tộc
+[0121] P: D. Xây dựng hệ giá trị và con người Việt Nam
+[0123] P: Câu 25 : Theo C.Mác và Ph.Ăngghen thì đặc điểm nổi bật của giai cấp công nhân là: (Chọn 2 đáp án đúng)
+[0124] P: A. Giai cấp cách mạng và có tinh thần cách mạng triệt để
+[0125] P: B. Lao động bằng phương thức công nghiệp
+[0126] P: C. Làm việc trong nông nghiệp, sử dụng công cụ thủ công
+[0127] P: D. Có quyền sở hữu toàn bộ tư liệu sản xuất
+[0129] P: Câu 26: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?
+[0130] P: A. Thực hiện chiến lược xây dựng giai cấp công nhân lớn mạnh, gắn kết chặt chẽ với chiến lược phát triển kinh tế - xã hộ
+[0131] P: B. Thực hiện tốt chính sách và pháp luật đối với công nhân và người lao động.
+[0132] P: C. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng
+[0133] P: D. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng
+[0134] P: Câu 27: Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử của mình là: (Chọn 2 đáp án đúng)
+[0135] P: A. Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng
+[0136] P: B. Sở hữu toàn bộ tư liệu sản xuất trong xã hội
+[0137] P: C. Đảng Cộng sản
+[0138] P: D. Không cần liên minh với các giai cấp, tầng lớp khác
+[0139] P: Câu 28: Đặc điểm sứ mệnh lịch sử của giai cấp công nhân là:
+[0140] P: A. Xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất
+[0141] P: B. Thay thế chế độ công hữu này bằng một chế độ công hữu khác
+[0142] P: C. Thay thế chế độ sở hữu tư nhân này bằng một chế độ sở hữu tư nhân khác
+[0143] P: D. Thay thế chế độ chiếm hữu nô lệ bằng chế độ xã hội chủ nghĩa
+[0145] P: Câu 29: Vấn đề nổi bật nhất đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là gì?
+[0146] P: A. Phát huy vai trò và trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước
+[0147] P: B. Lực lượng chủ đạo trong lao động
+[0148] P: C. Nắm vững khoa học và công nghệ
+[0149] P: D. Tham gia xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa
+[0150] P: Câu 30: Chủ nghĩa xã hội khoa học ra đời dựa trên cơ sở của những tiền đề nào? (Chọn 2 đáp án đúng)
+[0151] P: A. Tiền đề khoa học xã hội,
+[0152] P: B. Tiền đề tư tưởng lý luận,
+[0153] P: C. Tiền đề khoa học lịch sử,
+[0154] P: D. Tiền đề khoa học tự nhiên.
+[0156] P: Câu 31: Chọn đáp án đúng hoặc sai với từng phát biểu sau.
+[0157] P: 1, Giai cấp công nhân Việt Nam hiện nay đã tăng cả về số lượng và chất lượng.
+[0158] P: Đúng
+[0159] P: 2, Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại.
+[0160] P: Đúng
+[0161] P: 3, Sự trưởng thành của Đảng Cộng sản là nhân tố chính trị quan trọng của giai cấp công nhân
+[0162] P: Đúng
+[0163] P: 4, Đảng Cộng sản là nhân tố quan trọng khách quan, quan trọng nhất để giai cấp nhân thực hiện thắng lợi sứ mệnh lịch sử 
+[0164] P: Sai
+[0166] P: Câu 32: Chọn đáp án đúng hoặc sai với từng phát biểu sau.
+[0167] P: 1, Giai cấp công nhân Việt Nam không có sự liên kết với các lực lượng cách mạng khác.
+[0168] P: Sai
+[0169] P: 2, Giai cấp công nhân Việt Nam là tầng lớp giàu có, ít chịu áp bức, bóc lột.
+[0170] P: Sai
+[0171] P: 3, Giai cấp công nhân Việt Nam đến nay đã tăng nhanh về số lượng và chất lượng.
+[0172] P: Đúng
+[0173] P: 4, Giai cấp công nhân Việt Nam hiện nay đa dạng về cơ cấu nghề nghiệp, có mặt trong mọi thành phần kinh tế
+[0174] P: Đúng
+[0175] P: Câu 33: Hãy kéo thả các yếu tố sau đây vào cột tương ứng.
+[0176] === TABLE (3x2) ===
+       R0: Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử | Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân.
+       R1: Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng | Địa vị kinh tế của giai cấp công nhân
+       R2: Đảng Cộng sản | Địa vị chính trị xã hội của giai cấp công nhân
+[0179] P: Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:
+[0180] P: Đảng Cộng Sản
+[0181] P: 1, Giai cấp công nhân Việt Nam là lực lượng nòng cốt của tầng lớp nhân dân Việt Nam
+[0182] P: 2, Giai cấp công nhân Việt Nam hiện nay gắn bó mật thiết với các giai cấp, tầng lớp trong xã hội
+[0183] P: 3, Giai cấp công nhân Việt Nam có mối quan hệ mật thiết với giai cấp nông dân và tầng lớp trí thức trong xã hội
+[0185] P: Câu 35: chọn đáp án ( đúng hoặc sai) với từng phát biểu sau
+[0186] P: 1, Giai cấp công nhân là những người lao động trực tiếp hay gián tiếp vận hành các công cụ sản xuất có tính chất công ng
+[0187] P: Đúng
+[0188] P: 2: Giai cấp công nhân là chủ thể của quá trình sản xuất vật chất hiện đại.
+[0189] P: Đúng
+[0190] P: 3: Giai cấp công nhân là giai cấp cách mạng và có tinh thần cách mạng triệt để.
+[0191] P: Đúng
+[0192] P: 4: Đặc điểm nổi bật của giai cấp công nhân là lao động bằng phương thức nông nghiệp.
+[0193] P: Sai
+[0194] P: Câu 36: Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay bao gồm: (Chọn 3 đáp án đúng)
+[0195] P: A. Nội dung văn hóa, tư tưởng
+[0196] P: B. Nội dung lý luận
+[0197] P: C. Nội dung kinh tế
+[0198] P: D. Nội dung chính trị - xã hội
+[0200] P: Câu 37 : Xã hội xã hội chủ nghĩa ở Việt Nam là xã hội:
+[0201] P: A. Do giai cấp công nhân làm chủ
+[0202] P: B. Do nhân dân làm chủ
+[0203] P: C. Do nhân dân lao động làm chủ
+[0204] P: D. Do giai cấp nông dân làm chủ
+[0205] P: Câu 38 : Vận dụng những kiến thức đã học, cho biết đâu là quan niệm đúng và đầy đủ về nhà nước xã hội chủ nghĩa ở Việt N
+[0206] P: A. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước được lãnh đạo bởi tầng lớp tư sản, nhằm thúc đẩy kinh tế thị trường 
+[0207] P: B. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước không có sự can thiệp của Đảng Cộng sản, với mục tiêu chỉ là phát tr
+[0208] P: C. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước quân chủ lập hiến, trong đó quyền lực tập trung vào tay một người đứ
+[0209] P: D. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước của nhân dân, do nhân dân và vì nhân dân, dưới sự lãnh đạo của Đảng 
+[0210] P: Câu 39 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:
+[0211] === TABLE (3x2) ===
+       R0: 1. Hình thức ______ là hình thức dân chủ đại diện, được thực hiện do nhân dân "ủy quyền", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra. | dân chủ gián tiếp
+       R1: 2. Hình thức ______ là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội. | dân chủ trực tiếp
+       R2: 3. Chế độ ______ ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945. | dân chủ nhân dân
+[0216] P: BÀI 2
+[0217] P: Câu 1 Theo C.Mác và Phh.Ăngghen thì giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?
+[0218] P: A. Cộng sản chủ nghĩa
+[0219] P: B. Chủ nghĩa cộng sản
+[0220] P: C. Chủ nghĩa xã hội
+[0221] P: D. Thời kỳ quá độ
+[0222] P: Câu 2 Câu "Cần phải có thời kỳ quá độ khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội" là của ai?
+[0223] P: A. Lênin
+[0224] P: B. Ăngghen
+[0225] P: C. Heghen
+[0226] P: D. C.Mác
+[0227] P: Câu 3 Hình thái kinh tế - xã hội cộng sản chủ nghĩa bắt đầu và hoàn thiện khi nào?
+[0228] P: A. Bắt đầu từ thời kỳ quá độ và hoàn thiện ở giai đoạn thấp của xã hội cộng sản.
+[0229] P: B. Bắt đầu từ giai đoạn thấp của xã hội cộng sản và hoàn thiện ở giai đoạn cao của xã hội cộng sản.
+[0230] P: C. Bắt đầu từ khi Đảng cộng sản ra đời và xây dựng xong chủ nghĩa xã hội.
+[0231] P: D. Bắt đầu từ thời kỳ quá độ cho đến khi xây dựng xong giai đoạn cao của xã hội cộng sản.
+[0232] P: Câu 4 Đặc trưng về kinh tế của chủ nghĩa xã hội là gì?
+[0233] P: A. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ tư hữu về tư liệu sản xuất
+[0234] P: B. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất
+[0235] P: C. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại
+[0236] P: D. Có nền kinh tế phát triển cao
+[0237] P: Câu 5 Nguyên nhân sâu xa dẫn đến sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội
+[0238] P: A. Mâu thuẫn giữa các giai cấp, tầng lớp trong xã hội dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản 
+[0239] P: B. Mâu thuẫn giữa phương thức sản xuất tư bản chủ nghĩa và phương thức sản xuất xã hội chủ nghĩa dựa trên chế độ chiếm h
+[0240] P: C. Mâu thuẫn giữa lực lượng sản xuất và tư liệu sản xuất dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa
+[0241] P: D. Mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hoá ngày càng cao với quan hệ sản xuất tư bản chủ nghĩa dựa trên c
+[0242] P: Câu 6 Theo quan điểm của chủ nghĩa Mác – Lênin mốc bắt đầu của thời kỳ quá độ lên chủ nghĩa xã hội từ khi nào?
+[0243] P: A. Khi giai cấp công nhân và nhân dân lao động tiến hành cải tạo xã hội cũ
+[0244] P: B. Khi giai cấp công nhân tiến hành cải tạo xã hội cũ và xây dựng xã hội mới
+[0245] P: C. Khi giai cấp công nhân và nhân dân lao động giành được chính quyền
+[0246] P: D. Khi giai cấp công nhân đấu tranh giành chính quyền
+[0247] P: Câu 7: Đặc điểm nổi bật của thời kỳ quá độ đó là:
+[0248] P: A. Những nhân tố của xã hội mới và những tàn tích của xã hội cũ tồn tại đan xen lẫn nhau, đấu tranh với nhau trên mọi lĩ
+[0249] P: B. Những yếu tố của xã hội mới đã phát triển, xoá bỏ hoàn toàn yếu tố của xã hội cũ.
+[0250] P: C. Toàn bộ các yếu tố của xã hội bị triệt tiêu.
+[0251] P: D. Tàn dư của xã hội cũ còn tồn tại.
+[0252] P: Câu 8: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở nước ta, được hiểu là:
+[0253] P: A. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, nhưng tiếp thu, 
+[0254] P: B. Bỏ qua việc xác lập vị trí thống trị của kiến trúc thượng tầng tư bản chủ nghĩa nhưng không kế thừa những thành tựu m
+[0255] P: C. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa nhưng không kế th
+[0256] P: D. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất tư bản chủ nghĩa nhưng kế thừa những thành tựu mà nhân loại
+[0257] P: Câu 9 :Chọn cụm từ còn thiếu điền vào dấu ...: "Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ
+[0258] P: A. Đột phá cách mạng
+[0259] P: B. Cải biến cách mạng
+[0260] P: C. Cách mạng
+[0261] P: D. Quá độ
+[0262] P: Câu 10: Kiểu quá độ lên chủ nghĩa xã hội ở Việt Nam là kiểu quá độ nào?
+[0263] P: A. Quá độ chủ quan
+[0264] P: B. Quá độ khách quan
+[0265] P: C. Quá độ gián tiếp
+[0266] P: D. Quá độ trực tiếp
+[0267] P: Câu 11: Chọn từ đúng điền vào chỗ trống để hoàn thành mục tiêu của Đảng xác định trong thời kỳ quá độ lên chủ nghĩa xã h
+[0268] P: A. Bình đẳng
+[0269] P: B. Tiến bộ
+[0270] P: C. Công bằng
+[0271] P: D. Phát triển
+[0272] P: Câu 12: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) được Đản
+[0273] P: A. Đại hội XI
+[0274] P: B. Đại hội X
+[0275] P: C. Đại hội IX
+[0276] P: D. Đại hội XII
+[0277] P: Câu 13 :Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bước quá độ:
+[0278] P: A. Trực tiếp, từ chế độ tư bản chủ nghĩa lên chế độ xã hội chủ nghĩa
+[0279] P: B. Gián tiếp, bỏ qua chế độ tư bản chủ nghĩa tiến lên chủ nghĩa xã hội
+[0280] P: C. Gián tiếp, bỏ qua chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa
+[0281] P: D. Trực tiếp, từ chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa.
+[0282] P: Câu 14: Chọn phương án sai
+[0283] P: A. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa nhưng có sự tiếp thu, kế thừa toàn bộ các lĩnh vực đã tạo 
+[0284] P: B. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa tức là bỏ qua việc xác lập vị trí thống trị của quan hệ sả
+[0285] P: C. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là con đường cách mạng tất yếu chủ quan, con đường xây dựn
+[0286] P: D. Con đường đi lên chủ nghĩa xã hội của nước ta là sự phát triển quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ n
+[0287] P: Câu 15: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3:
+[0288] P: [Quá độ trực tiếp] từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển
+[0289] P: [Quá độ gián tiếp] từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát tri
+[0290] P: Thực chất của [thời kỳ quá độ] lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư 
+[0291] P: Câu 16: Chủ nghĩa xã hội có mấy đặc trưng cơ bản
+[0292] P: A. 6
+[0293] P: B. 8
+[0294] P: C. 5
+[0295] P: D. 7
+[0296] P: Câu 17: Về nội dung, thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản ch
+[0297] P: A. Chủ yếu về chính trị
+[0298] P: B. Chủ yếu về văn hóa
+[0299] P: C. Chủ yếu là chính trị
+[0300] P: D. Kinh tế, chính trị, văn hóa, xã hội
+[0301] P: Câu 18: Phát triển bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được hiểu như thế nào?
+[0302] P: A. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa
+[0303] P: B. Bỏ qua sự phát triển của lực lượng sản xuất tư bản chủ nghĩa
+[0304] P: C. Không xây dựng quan hệ sản xuất tư bản chủ nghĩa
+[0305] P: D. Bỏ qua các yếu tố gắn với phương thức sản xuất tư bản chủ nghĩa
+[0306] P: Câu 19: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0307] P: Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại chủ yếu là tư tưởng vô sản.
+[0308] P: Sai
+[0309] P: Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để trên lĩnh vực kin
+[0310] P: Sai
+[0311] P: Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nền kinh tế nhiều thành phần.
+[0312] P: Đúng
+[0313] P: Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nhiều giai cấp, tầng lớp.
+[0314] P: Đúng
+[0315] P: Câu 20: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0316] P: Thời kỳ quá độ lên chủ nghĩa xã hội có sự tồn tại song song giữa các yếu tố cũ và yếu tố mới
+[0317] P: Đúng
+[0318] P: Trong thời kỳ quá độ lên chủ nghĩa xã hội kinh tế tư nhân bị xóa bỏ hoàn toàn
+[0319] P: Sai
+[0320] P: Trong thời kỳ quá độ lên chủ nghĩa xã hội tồn tại nhiều thành phần kinh tế
+[0321] P: Đúng
+[0322] P: Thời kỳ quá độ lên chủ nghĩa xã hội chỉ có kinh tế nhà nước tồn tại và phát triển
+[0323] P: Sai
+[0324] P: Câu 21 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0326] P: 1) Học thuyết hình thái kinh tế- xã hội của chủ nghĩa Mác- Lênin đã chỉ rõ: Lịch sử xã hội đã trải qua 4 hình thái kinh 
+[0327] P: Sai
+[0328] P: 2) Quá độ gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát tr
+[0329] P: Đúng
+[0330] P: 3) Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư
+[0331] P: Đúng
+[0332] P: 4) Quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triể
+[0333] P: Đúng
+[0334] P: Câu 22: Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)
+[0335] P: A. Xây dựng nhà nước pháp quyền tư sản
+[0336] P: B. Phát triển chủ nghĩa tư bản trong thời gian ngắn để tích lũy
+[0337] P: C. Từ một nền sản xuất nhỏ tiến lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa
+[0338] P: D. Có sự lãnh đạo của Đảng Cộng sản Việt Nam
+[0340] P: Câu 23: Đặc điểm về chính trị trong thời kỳ quá độ được thể hiện ở điểm nào? (Chọn 2 đáp án đúng)
+[0341] P: A. Đa nguyên chính trị, đa đảng đối lập
+[0342] P: B. Thiết lập chuyên chính vô sản
+[0343] P: C. Xây dựng nền dân chủ xã hội chủ nghĩa
+[0344] P: D. Hoàn toàn không còn vai trò của nhà nước
+[0346] P: Câu 24: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0347] P: Chủ nghĩa xã hội ở Việt Nam không chấp nhận kinh tế tư nhân tồn tại song song với kinh tế nhà nước
+[0348] P: Sai
+[0349] P: Việc "bỏ qua" chế độ tư bản chủ nghĩa là không kế thừa bất kỳ yếu tố tích cực nào của chủ nghĩa tư bản
+[0350] P: Sai
+[0351] P: Việt Nam quá độ lên chủ nghĩa xã hội từ một nền sản xuất nhỏ, bỏ qua chế độ tư bản chủ nghĩa
+[0352] P: Đúng
+[0353] P: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân
+[0354] P: Đúng
+[0355] P: Câu 25: Hãy chỉ ra luận điểm không chính xác:
+[0356] P: A. Nhà nước trong thời kỳ quá độ lên chủ nghĩa xã hội là nền chuyên chính cách mạng của giai cấp công nhân
+[0357] P: B. Trong thời kỳ quá độ lên chủ nghĩa xã hội còn tồn tại nhiều tư tưởng – văn hoá cũ và mới đan xen, đấu tranh với nhau
+[0358] P: C. Giữa xã hội tư bản chủ nghĩa và xã hội xã hội chủ nghĩa là thời kỳ cải biến cách mạng lâu dài và phức tạp
+[0359] P: D. Trong thời kỳ quá độ lên chủ nghĩa xã hội có thể và cần phải thủ tiêu mọi tàn tích của chủ nghĩa tư bản
+[0360] P: Câu 26: Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực kinh tế là gì?
+[0361] P: A. Tồn tại giai cấp đối kháng
+[0362] P: B. Tồn tại nhiều thành phần kinh tế
+[0363] P: C. Tồn tại đấu tranh giai cấp
+[0364] P: D. Tồn tại nhiều tàn dư văn hóa của chế độ cũ
+[0365] P: Câu 27: Tìm đáp án sai. Đặc trưng bản chất của chủ nghĩa xã hội Việt Nam theo tinh thần của Đại hội XI
+[0366] P: A. Quyền lực thuộc về giai cấp công nhân
+[0367] P: B. Có quan hệ hữu nghị và hợp tác với các nước trên thế giới
+[0368] P: C. Con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện
+[0369] P: D. Có nền văn hóa tiên tiến đậm đà bản sắc dân tộc
+[0370] P: Câu 28:Trong cuốn sách "Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Vi
+[0371] P: A. Độc lập dân tộc gắn liền với chủ nghĩa xã hội
+[0372] P: B. Chủ nghĩa xã hội và giải phóng giai cấp vô sản
+[0373] P: C. Phát triển kinh tế thị trường định hướng xã hội chủ nghĩa
+[0374] P: D. Độc lập dân tộc gắn liền với hội nhập kinh tế quốc tế
+[0375] P: Câu 29: Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là m
+[0376] P: A. Vì nó phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại
+[0377] P: B. Vì không cần tiếp thu thành tựu khoa học, kỹ thuật dưới chế độ tư bản chủ nghĩa
+[0378] P: C. Vì không cần tạo ra sự biến đổi về chất trên tất cả các lĩnh vực
+[0379] P: D. Vì sự phát triển của lực lượng sản xuất ngày càng cao
+[0380] P: Câu 30 :Căn cứ vào giáo trình Chủ nghĩa xã hội khoa học, hãy xác định khái niệm dùng để chỉ một chế độ xã hội tốt đẹp, g
+[0381] P: A. Chủ nghĩa cộng sản
+[0382] P: B. Thời kỳ quá độ lên chủ nghĩa xã hội
+[0383] P: C. Thời kỳ quá độ
+[0384] P: D. Chủ nghĩa xã hội
+[0385] P: Câu 31: Theo chủ nghĩa Mác – Lênin có mấy hình thức quá độ lên chủ nghĩa xã hội?
+[0386] P: A. 1
+[0387] P: B. 4
+[0388] P: C. 3
+[0389] P: D. 2
+[0390] P: Câu 32: Đặc điểm về kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)
+[0391] P: A. Chỉ có kinh tế nhà nước tồn tại và phát triển.
+[0392] P: B. Tồn tại nền kinh tế nhiều thành phần.
+[0393] P: C. Hoàn toàn không còn kinh tế tư nhân.
+[0394] P: D. Có những thành phần kinh tế đối lập nhau.
+[0395] P: Câu 33: Việc "bỏ qua chế độ tư bản chủ nghĩa" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)
+[0396] P: A. Tiếp thu, kế thừa những thành tựu nhân loại đã đạt được dưới chủ nghĩa tư bản
+[0397] P: B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa
+[0398] P: C. Loại bỏ hoàn toàn tất cả các yếu tố tư bản trong nền kinh tế
+[0399] P: D. Tăng cường sở hữu tư nhân để phát triển lực lượng sản xuất
+[0400] P: Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0401] P: 1) Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa là một trong những phương hướng xây dựng chủ nghĩa xã h
+[0402] P: Đúng
+[0403] P: 2) Việt Nam thực hiện quá độ trực tiếp đi lên chủ nghĩa xã hội
+[0404] P: Sai
+[0405] P: 3) Chủ nghĩa xã hội ở Việt Nam không bao gồm việc xây dựng nền kinh tế thị trường
+[0406] P: Sai
+[0407] P: 4) Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là sự lựa chọn duy nhất đúng, khoa học, phản ánh đúng quy 
+[0408] P: Câu 35: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:
+[0409] === TABLE (3x2) ===
+       R0: 1.Việt Nam xây dựng nền_______có sự điều tiết của nhà nước. | kinh tế thị trường
+       R1: 2. Một đặc trưng chính trị của chủ nghĩa xã hội ________ xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân. | nhà nước pháp quyền
+       R2: 3. Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam tôn trọng, bảo vệ và bảo đảm _______ . | quyền con người.
+[0411] P: Câu 36 : Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)
+[0412] P: A. Chuyển thẳng từ chế độ phong kiến lên chủ nghĩa xã hội
+[0413] P: B. Bỏ qua chế độ phong kiến
+[0414] P: C. Bỏ qua chế độ tư bản chủ nghĩa
+[0415] P: D. Xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa
+[0417] P: Câu 37 : Việc "bỏ qua chế độ tư bản chủ nghĩa" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)
+[0418] P: A. Loại bỏ hoàn toàn tất cả các yếu tố tư bản trong nền kinh tế
+[0419] P: B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa
+[0420] P: C. Tiếp thu, kế thừa những thành tựu nhân loại đã đạt được dưới chủ nghĩa tư bản
+[0421] P: D. Tăng cường sở hữu tư nhân để phát triển lực lượng sản xuất
+[0423] P: Câu 38: Thời kỳ quá độ lên chủ nghĩa xã hội có những mâu thuẫn nào cần giải quyết? (Chọn 2 đáp án đúng)
+[0424] P: A. Mâu thuẫn giữa năng suất lao động và nhu cầu phát triển xã hội.
+[0425] P: B. Mâu thuẫn giữa cái cũ và cái mới trong xã hội.
+[0426] P: C. Mâu thuẫn giữa các tầng lớp lao động và tư sản hoàn toàn biến mất.
+[0427] P: D. Mâu thuẫn giữa các thành phần kinh tế khác nhau trong xã hội.
+[0428] P: Câu 39 : Hai loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đó là: (Chọn 2 đáp án)
+[0429] P: A. Quá độ gián tiếp
+[0430] P: B. Quá độ cơ bản
+[0431] P: C. Quá độ không cơ bản
+[0432] P: D. Quá độ trực tiếp
+[0433] P: Câu 40 : Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng cộng sản chống lại giai cấ
+[0434] P: A. Cách mạng tư sản
+[0435] P: B. Cách mạng dân chủ tư sản
+[0436] P: C. Cách mạng xã hội
+[0437] P: D. Cách mạng vô sản
+[0440] P: Câu 41: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:
+[0441] === TABLE (3x2) ===
+       R0: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là con đường cách mạng_____ | tất yếu khách quan.
+       R1: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa, tức là bỏ qua việc xác lập _____ của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa. | vị trí thống trị
+       R2: Việt Nam thực hiện _____ đi lên chủ nghĩa xã hội. | quá độ gián tiếp
+[0443] P: Câu 42 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:
+[0445] === TABLE (3x2) ===
+       R0: _______từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển. | Quá độ trực tiếp
+       R1: Thực chất của _______lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa. | Thời kỳ quá độ
+       R2: _______từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển. | Quá độ gián tiếp
+[0447] P: Câu 43 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 về trái dưới đây:
+[0448] === TABLE (4x2) ===
+       R0: 1. Mỗi kiểu dân chủ trong lịch sử đều mang ______ nhất định | bản chất giai cấp
+       R1: 2. ______ là hình thức dân chủ ra đời từ cách mạng tư sản | dân chủ tư sản
+       R2: 3. ______ là nền dân chủ cao hơn về chất so với nền dân chủ có trong lịch sử nhân loại | dân chủ xã hội chủ nghĩa
+       R3: 4. Nền dân chủ chủ nô, gắn với chế độ ______. | chiếm hữu nô lệ
+[0451] P: BÀI 3
+[0452] P: Câu 1: Theo nguyên nghĩa tiếng Hy Lạp thì "Dân chủ" là gì?
+[0453] P: A. Là quyền của con người
+[0454] P: B. Là quyền lực thuộc về nhân dân
+[0455] P: C. Là trật tự xã hội
+[0456] P: D. Là quyền tự do của mỗi người
+[0457] P: Câu 2: Dân chủ xã hội chủ nghĩa mang tính nhất nguyên về chính trị, được hiểu là:
+[0458] P: A. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và giai cấp nông dân
+[0459] P: B. Nền dân chủ xã hội chủ nghĩa do Đảng Cộng sản lãnh đạo – đại biểu cho trí tuệ, lợi ích của giai cấp công nhân, nhân d
+[0460] P: C. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và nhân dân lao động
+[0461] P: D. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và tầng lớp trí thức
+[0462] P: Câu 3: Lịch sử loài người đã từng xuất hiện các nền dân chủ nào?
+[0463] P: A. Nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản.
+[0464] P: B. Nền dân chủ nguyên thủy, nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản, nền dân chủ vô sản.
+[0465] P: C. Nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản, nền dân chủ vô sản.
+[0466] P: D. Nền dân chủ chủ nô, nền dân chủ tư sản, nền dân chủ xã hội chủ nghĩa.
+[0467] P: Câu 4: Bản chất chính trị của nền dân chủ xã hội chủ nghĩa thể hiện như thế nào?
+[0468] P: A. Quyền lực và lợi ích thuộc về toàn thể nhân dân lao động, trong đó có giai cấp công nhân, dưới sự lãnh đạo của Đảng C
+[0469] P: B. Quyền lực thuộc về một cá nhân duy nhất, không có sự tham gia của quần chúng nhân dân.
+[0470] P: C. Nhà nước chủ yếu thực hiện các quyết định chính trị mà không cần sự đồng thuận hoặc tham gia của người dân.
+[0471] P: D. Nền dân chủ tập trung vào phát triển kinh tế tư nhân và bảo vệ lợi ích của tầng lớp giàu có.
+[0472] P: Câu 5: Bản chất tư tưởng - văn hoá - xã hội của nền dân chủ xã hội chủ nghĩa được thể hiện ở nội dung nào?
+[0473] P: A. Lấy hệ tư tưởng của giai cấp tư sản làm chủ đạo
+[0474] P: B. Lấy hệ tư tưởng của giai cấp tiểu tư sản làm chủ đạo
+[0475] P: C. Lấy hệ tư tưởng của giai cấp nông dân làm chủ đạo
+[0476] P: D. Lấy hệ tư tưởng Mác - Lênin - hệ tư tưởng của giai cấp công nhân làm chủ đạo
+[0477] P: Câu 6: Đặc điểm của nhà nước pháp quyền xã hội chủ nghĩa là gì?
+[0478] P: A. Quản lý xã hội bằng pháp luật
+[0479] P: B. Quản lý xã hội bằng niềm tin
+[0480] P: C. Quản lý xã hội bằng mệnh lệnh hành chính
+[0481] P: D. Quản lý xã hội bằng dư luận
+[0482] P: Câu 7: Kiểu nhà nước nào sau đây được V.I. Lênin gọi là nhà nước "nửa nhà nước"?
+[0483] P: A. Nhà nước phong kiến
+[0484] P: B. Nhà nước tư sản
+[0485] P: C. Nhà nước xã hội chủ nghĩa
+[0486] P: D. Nhà nước chủ nô
+[0487] P: Câu 8: Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước được chia thành:
+[0488] P: A. Chức năng đối nội và chức năng đối ngoại
+[0489] P: B. Chức năng giai cấp, xã hội
+[0490] P: C. Chức năng trấn áp và chức năng tổ chức, xây dựng
+[0491] P: D. Chức năng chính trị, kinh tế, văn hóa, xã hội
+[0492] P: Câu 9: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam ở Việt Nam được thực hiện thông qua:
+[0493] P: A. Các hình thức dân chủ không tự nguyện
+[0494] P: B. Các hình thức dân chủ cơ bản và không cơ bản
+[0495] P: C. Các hình thức dân chủ gián tiếp và trực tiếp
+[0496] P: D. Các hình thức dân chủ tự nguyện
+[0497] P: Câu 10: So với các mô hình nhà nước khác trong lịch sử thì nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có sự khác bi
+[0498] P: A. Vừa mang bản chất của giai cấp công nhân và nhân dân lao động
+[0499] P: B. Mang bản chất của đa số nhân dân lao động
+[0500] P: C. Mang bản chất của giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc
+[0501] P: D. Mang bản chất của giai cấp công nhân
+[0502] P: Câu 11: Nền dân chủ xã hội chủ nghĩa ở Việt Nam có điểm khác biệt cơ bản nào so với các nền dân chủ trước đây?
+[0503] P: A. Là nền dân chủ phi lịch sử
+[0504] P: B. Là nền dân chủ thuần tuý
+[0505] P: C. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động
+[0506] P: D. Còn mang tính giai
+[0507] P: Câu 12: Hãy xác định mục tiêu chính của việc xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.
+[0508] P: A. Tăng cường sự kiểm soát của nhà nước
+[0509] P: B. Phục vụ lợi ích của giai cấp công nhân và nhân dân lao động
+[0510] P: C. Phát triển kinh tế thị trường tự do
+[0511] P: D. Giảm thiểu sự can thiệp của nhà nước
+[0512] P: Câu 13: Bản chất của nền dân chủ xã hội chủ nghĩa là: (Chọn 2 đáp án đúng)
+[0513] P: A. Nền dân chủ của đa số nhân dân lao động
+[0514] P: B. Nền dân chủ của giai cấp tư sản
+[0515] P: C. Nền dân chủ mang tính cá nhân
+[0516] P: D. Nền dân chủ mang tính tập thể
+[0517] P: Câu 14: Đặc điểm nổi bật của nền dân chủ xã hội chủ nghĩa là gì? (Chọn 2 đáp án đúng)
+[0518] P: A. Đặt quyền lợi của nhân dân lao động lên hàng đầu
+[0519] P: B. Tôn trọng quyền sở hữu tư nhân tuyệt đối
+[0520] P: C. Phân biệt rõ ràng giữa các tầng lớp xã hội
+[0521] P: D. Thực hiện quyền làm chủ tập thể của nhân dân
+[0522] P: Câu 15: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được xây dựng dựa trên những nguyên tắc nào sau đây? (Chọn 2 đáp á
+[0523] P: A. Nhà nước quản lý xã hội bằng hiến pháp, pháp luật
+[0524] P: B. Đảng lãnh đạo nhà nước theo phương thức mệnh lệnh
+[0525] P: C. Quyền lực nhà nước là tối cao, không cần kiểm soát
+[0526] P: D. Quyền lực nhà nước thống nhất, có phân công, phối hợp và kiểm soát
+[0527] P: Câu 16: Chế độ dân chủ nhân dân ở Việt Nam được xác lập từ khi nào?
+[0528] P: A. Sau khi Đảng Cộng sản ra đời
+[0529] P: B. Sau cách mạng tháng Tám năm 1945
+[0530] P: C. Sau kháng chiến chống thực dân Pháp năm 1954
+[0531] P: D. Sau kháng chiến chống đế quốc Mỹ năm 1975
+[0532] P: Câu 17 : Chọn ý không đúng về điểm khác biệt của nền dân chủ xã hội chủ nghĩa so với nền dân chủ tư sản:
+[0533] P: A. Mang tính nhất nguyên về chính trị
+[0534] P: B. Trước hết và chủ yếu được thực hiện bằng Nhà nước pháp quyền xã hội chủ nghĩa
+[0535] P: C. Dựa trên chế độ sở hữu xã hội về những tư liệu sản xuất chủ yếu của toàn xã hội
+[0536] P: D. Không mang tính giai cấp
+[0537] P: Câu 18: Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?
+[0538] P: A. Giai cấp công nhân đấu tranh phản đối tình trạng áp bức bóc lột của giai cấp tư sản
+[0539] P: B. Giai cấp công nhân xây dựng xong CNXH
+[0540] P: C. Giai cấp công nhân đấu tranh đòi tăng lương, giảm giờ làm, cải thiện điều kiện lao động
+[0541] P: D. Giai cấp công nhân lật đổ nhà nước của giai cấp bóc lột, giành được chính quyền
+[0542] P: Câu 19: Hãy xác định biện pháp để nâng cao hiệu quả hoạt động của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.
+[0543] P: A. Tăng cường sự kiểm soát của nhà nước
+[0544] P: B. Giảm thiểu sự phát triển của khu vực tư nhân
+[0545] P: C. Giảm thiểu sự can thiệp của các tổ chức xã hội
+[0546] P: D. Xây dựng và từng bước hoàn thiện hệ thống giám sát, phản biện xã hội
+[0547] P: Câu 20 : Bằng hiểu biết của bản thân, hãy cho biết đâu là hình thức dân chủ gián tiếp?
+[0548] P: A. Người dân trực tiếp tham gia bỏ phiếu để quyết định các vấn đề quan trọng của đất nước.
+[0549] P: B. Người dân tự tổ chức các phong trào xã hội để yêu cầu các quyền lợi mà không thông qua bất kỳ đại diện nào.
+[0550] P: C. Người dân tham gia trực tiếp vào các cuộc trưng cầu dân ý về các chính sách hoặc luật pháp cụ thể.
+[0551] P: D. Người dân bầu ra đại diện của mình để thay mặt họ quyết định các vấn đề quan trọng trong quốc hội hoặc cơ quan lập ph
+[0552] P: Câu 21: So với các nền dân chủ trước đây, dân chủ xã hội chủ nghĩa có điểm khác biệt cơ bản nào?
+[0553] P: A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động
+[0554] P: B. Là nền dân chủ phi lịch sử
+[0555] P: C. Không còn mang tính giai cấp
+[0556] P: D. Là nền dân chủ thuần túy
+[0557] P: Câu 22: Đâu là định nghĩa đúng và đầy đủ về dân chủ?
+[0558] P: A. Dân chủ là giá trị phản ánh quyền cơ bản của con người; là kết quả của sự nghiệp đấu tranh của con người vì lợi ích c
+[0559] P: B. Dân chủ là một giá trị phản ánh những quyền cơ bản của con người; là một hình thức tổ chức nhà nước của giai cấp cầm 
+[0560] P: C. Dân chủ là một giá trị phản ánh những quyền tối thiểu của con người; là một thái tổ chức nhà nước thừa nhận quyền làm
+[0561] P: D. Dân chủ là một giá trị xã hội phản ánh sự nghiệp đấu tranh của con người vì sự phát triển tiến bộ xã hội
+[0562] P: Câu 23: Nhà nước pháp quyền XHCN quản lý mọi mặt của đời sống xã hội chủ yếu bằng gì?
+[0563] P: A. Đường lối, chính sách
+[0564] P: B. Hiến pháp, pháp luật
+[0565] P: C. Giáo dục
+[0566] P: D. Tuyên truyền
+[0567] P: Câu 24: Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có đặc điểm như thế nào?
+[0568] P: A. Nhà nước hình thành là kết quả của cách mạng xã hội chủ nghĩa
+[0569] P: B. Nhà nước hoạt động trên nền tảng của khối liên minh công – nông – trí thức
+[0570] P: C. Nhà nước được tổ chức và hoạt động trên cơ sở Hiến pháp và pháp luật
+[0571] P: D. Nhà nước đặt dưới sự lãnh đạo của Đảng cộng sản
+[0572] P: Câu 25: Dân chủ trong xã hội nguyên thủy được thể hiện như thế nào? (Chọn 2 đáp án đúng)
+[0573] P: A. Mọi người đều bình đẳng trong quyết định các vấn đề chung
+[0574] P: B. Quyền lực tập trung vào một số cá nhân
+[0575] P: C. Không có sự phân chia giai cấp và quyền lực
+[0576] P: D. Hình thành tổ chức chính trị phức tạp
+[0577] P: Câu 26: Dân chủ xã hội chủ nghĩa ở Việt Nam là: (Chọn 2 đáp án đúng)
+[0578] P: A. Chế độ dân chủ tư sản mở rộng
+[0579] P: B. Nền dân chủ gắn liền với sự lãnh đạo của Đảng Cộng sản Việt Nam
+[0580] P: C. Nền dân chủ bảo đảm quyền lực thuộc về nhân dân
+[0581] P: D. Chế độ dân chủ không phụ thuộc vào nhà nước
+[0582] P: Câu 27: Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:
+[0583] P: A. Thực hiện chế độ tư hữu về công cụ sản xuất chủ yếu
+[0584] P: B. Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là 
+[0585] P: C. Thực hiện chế độ tư hữu về tư liệu sản xuất
+[0586] P: D. Thực hiện chế độ phân phối "Làm theo năng lực, hưởng theo nhu cầu"
+[0587] P: Câu 28 : Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:
+[0588] P: A. Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là 
+[0589] P: B. Thực hiện chế độ tư hữu về công cụ sản xuất chủ yếu
+[0590] P: C. Thực hiện chế độ tư hữu về tư liệu sản xuất
+[0591] P: D. Thực hiện chế độ phân phối "Làm theo năng lực, hưởng theo nhu cầu"
+[0592] P: Câu 29 : Tại sao quyền lực nhà nước ở Việt Nam được tổ chức theo nguyên tắc thống nhất?
+[0593] P: A. Để giảm thiểu vai trò của các tổ chức phi chính phủ
+[0594] P: B. Để đảm bảo sự phối hợp và kiểm soát giữa các cơ quan lập pháp, hành pháp và tư pháp
+[0595] P: C. Để tăng cường sự kiểm soát của nhà nước
+[0596] P: D. Để kiểm soát chặt chẽ các hoạt động kinh tế
+[0597] P: Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0598] P: 1Nền dân chủ chủ nô, gắn với chế độ chiếm hữu nô lệ.
+[0599] P: Đúng
+[0600] P: 2) Dân chủ xã hội chủ nghĩa là công cụ để giai cấp công nhân thực hiện chuyên chính với các giai cấp khác
+[0601] P: Sai
+[0602] P: 3) Dân chủ tư sản là hình thức dân chủ gắn với quyền lực chính trị của giai cấp tư sản
+[0603] P: Đúng
+[0604] P: 4) Với tư cách là một hình thái nhà nước, một chế độ chính trị thì trong lịch sử nhân loại, cho đến nay có năm nền (chế 
+[0605] P: Sai
+[0606] P: Câu 31 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0607] P: 1) Dân chủ xã hội chủ nghĩa là sự phủ định sạch trơn những thành tựu dân chủ trước đó
+[0608] P: Sai
+[0609] P: 2) Trong xã hội tư bản, dân chủ thực chất thuộc về giai cấp tư sản
+[0610] P: Đúng
+[0611] P: 3) Dân chủ là một phạm trù mang tính lịch sử, gắn với sự xuất hiện và phát triển của nhà nước
+[0612] P: Đúng
+[0613] P: 4) Dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản
+[0614] P: Đúng
+[0615] P: Câu 32: Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước được chia thành:
+[0616] P: A. Chức năng giai cấp (trấn áp) và chức năng xã hội (tổ chức và xây dựng)
+[0617] P: B. Chức năng chính trị, kinh tế, văn hóa, xã hội
+[0618] P: C. Chức năng giai cấp và chức năng đối ngoại
+[0619] P: Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0620] P: 1) Trong hoạt động của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam, các cơ quan của nhà nước không được phân quyền r
+[0621] P: Sai
+[0622] P: 2) Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các thức dân chủ gián tiếp và dân chủ trực tiếp
+[0623] P: Đúng
+[0624] P: 3) Đảng ta khẳng định một trong những đặc trưng của chủ nghĩa xã hội Việt Nam là do nhân dân làm chủ
+[0625] P: Đúng
+[0626] P: 4) Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm
+[0627] P: Sai
+[0628] P: Câu 34 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0629] P: 1) Chế độ dân chủ nhân dân ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945
+[0630] P: Đúng
+[0631] P: 2) Hình thức dân chủ trực tiếp là hình thức dân chủ đại diện, được thực hiện do nhân dân "ủy quyền", giao quyền lực của 
+[0632] P: Sai
+[0633] P: 3)Năm 1976, tên nước được đổi thành Cộng hòa xã hội chủ nghĩa Việt Nam
+[0634] P: Đúng
+[0635] P: 4) Hình thức dân chủ gián tiếp là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm
+[0636] P: Sai
+[0637] P: Câu 35: Vận dụng những kiến thức đã học hãy chỉ ra luận điểm không chính xác:
+[0638] P: A. Công cuộc xây dựng chủ nghĩa xã hội là một công việc mới mẻ, khó khăn và phức tạp phải có thời gian để giai cấp công 
+[0639] P: B. Thời kỳ quá độ là cần thiết để xây dựng cơ sở vật chất – kỹ thuật cho chủ nghĩa xã hội.
+[0640] P: C. Chủ nghĩa xã hội và chủ nghĩa tư bản khác nhau về chất, cần có một thời kỳ lịch sử nhất định để chuyển đổi.
+[0641] P: D. Tất cả các quan hệ xã hội của chủ nghĩa xã hội tự nảy sinh trong lòng chủ nghĩa tư bản
+[0642] P: Câu 36 : Những điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân bao gồm: (Chọn 2 đáp án)
+[0643] P: A. Giai cấp có lực lượng đông đảo
+[0644] P: B. Địa vị kinh tế - xã hội
+[0645] P: C. Do sự phát triển của lực lượng sản xuất hiện đại
+[0646] P: D. Đặc điểm chính trị - xã hội
+[0647] P: Câu 37 : So với các giai cấp khác thì sứ mệnh lịch sử của giai cấp công nhân có gì khác biệt?
+[0648] P: A. Thay thế chế độ tư hữu này bằng một chế độ tư hữu khác
+[0649] P: B. Xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất
+[0650] P: C. Không có gì khác biệt
+[0651] P: D. Duy trì chế độ tư hữu về tư liệu sản xuất
+[0653] P: Câu 38: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức dân chủ nào? (Chọn 2 đáp án 
+[0654] P: A. Dân chủ chuyên chế
+[0655] P: B. Dân chủ trực tiếp
+[0656] P: C. Dân chủ tuyệt đối
+[0657] P: D. Dân chủ gián tiếp
+[0658] P: BÀI 4
+[0659] P: Câu 1: Trong cơ cấu xã hội – giai cấp của thời kỳ quá độ lên chủ nghĩa xã hội, lực lượng tiêu biểu cho phương thức sản x
+[0660] P: Giai cấp công nhân
+[0661] P: Giai cấp nông dân
+[0662] P: Đội ngũ doanh nhân
+[0663] P: Tầng lớp trí thức
+[0664] P: Câu 2: Xét về mặt kinh tế, trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi phức tạp, đa dạn
+[0665] P: A. Cơ cấu kinh tế đa dạng, phức tạp
+[0666] P: B. Các giai cấp có nhiều tư liệu sản xuất quyết định
+[0667] P: C. Kinh tế chậm phát triển
+[0668] P: D. Tồn tại nhiều giai cấp, tầng lớp
+[0669] P: Câu 3: Vì sao cơ cấu xã hội giai cấp có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác? (Chọn 2 đ
+[0670] P: A. Vì cơ cấu xã hội – giai cấp liên quan đến quản lý tổ chức lao động, vấn đề phân phối thu nhập
+[0671] P: B. Vì cơ cấu xã hội – giai cấp liên quan đến các tổ chức tà đạo, các băng nhóm xã hội đen lớn trong xã hội
+[0672] P: C. Vì cơ cấu xã hội – giai cấp liên quan đến các đảng phái chính trị và nhà nước; đến quyền sở hữu tư liệu sản xuất
+[0673] P: D. Vì cơ cấu xã hội – giai cấp liên quan đến nhiều giai cấp giàu có trong xã hội
+[0674] P: Câu 4: Theo C.Mác và Ph.Ăngghen, nhiều cuộc đấu tranh của giai cấp công nhân ở châu Âu, nhất là ở nước Anh và Pháp từ gi
+[0675] P: A. Không tổ chức liên minh với giai cấp nông dân
+[0676] P: B. Không tổ chức liên minh với tầng lớp trí thức
+[0677] P: C. Không tổ chức liên minh với giai cấp tư sản
+[0678] P: D. Không tổ chức liên minh với tầng lớp tiểu chủ
+[0679] P: Câu 5: Yếu tố quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức là:
+[0680] P: A. Do có cùng một kẻ thù là giai cấp tư sản
+[0681] P: B. Do giai cấp công nhân mong muốn
+[0682] P: C. Do giai cấp công nhân muốn trở thành giai cấp thống trị
+[0683] P: D. Do có những lợi ích cơ bản thống nhất với nhau
+[0684] P: Câu 6: Theo quan điểm của chủ nghĩa Mác – Lênin, trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp công nhân, giai cấp
+[0685] P: A. Lực lượng ngoại giao to lớn
+[0686] P: B. Lực lượng sản xuất cơ bản, lực lượng chính trị - xã hội to lớn
+[0687] P: C. Lực lượng vũ trang cơ bản
+[0688] P: D. Lực lượng kém phát triển
+[0689] P: Câu 7: Chọn phương án trả lời đúng nhất để điền vào chỗ trống cho câu sau: "Trước sự liên minh của các đại biểu khoa học
+[0690] P: A. Giai cấp tiểu tư sản
+[0691] P: B. Giai cấp nông dân
+[0692] P: C. Giai cấp vô sản
+[0693] P: D. Giai cấp tư sản
+[0694] P: Câu 8: Theo V.I. Lênin, đâu là vấn đề mang tính nguyên tắc để đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa 
+[0695] P: A. Liên minh công, nông và trí thức
+[0696] P: B. Liên minh giữa giai cấp công nhân, tầng lớp tiểu tư sản
+[0697] P: C. Liên minh giữa giai cấp vô sản và nông dân
+[0698] P: D. Liên minh giữa giai cấp công nhân, tầng lớp tư sản tiến bộ
+[0699] P: Câu 9: Vì sao giai cấp công nhân, nông dân và đội ngũ trí thức cần liên minh với nhau trong thời kỳ quá độ lên chủ nghĩa
+[0700] P: A. Vì xuất phát từ yêu cầu khách quan của quá trình đẩy mạnh công nghiệp hoá, hiện đại hoá và chuyển dịch cơ cấu kinh tế
+[0701] P: B. Vì các giai cấp, tầng lớp muốn có đồng lực lượng để tổ chức các hoạt động văn hoá, xã hội
+[0702] P: C. Vì giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức có sự thống nhất chung về lợi ích
+[0703] P: D. Vì giai cấp công nhân bắt buộc các giai cấp nông dân, tầng lớp trí thức liên minh với mình
+[0704] P: Câu 10: Hiện nay ở Việt Nam, lực lượng xã hội đặc biệt được Đảng ta chủ trương xây dựng thành một đội ngũ vững mạnh là:
+[0705] P: A. Trí thức
+[0706] P: B. Công nhân
+[0707] P: C. Thanh niên
+[0708] P: D. Doanh nhân
+[0709] P: Câu 11: Lực lượng nào là lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện
+[0710] P: A. Trí thức
+[0711] P: B. Thanh niên
+[0712] P: C. Công nhân
+[0713] P: D. Nông dân
+[0714] P: Câu 12: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp nào là lực lượng đi đầu thực hiện nhiệm vụ trung 
+[0715] P: A. Giai cấp công nhân
+[0716] P: B. Đội ngũ trí thức
+[0717] P: C. Giai cấp nông dân
+[0718] P: D. Đội ngũ doanh nhân
+[0719] P: Câu 13: Nội dung cơ bản quyết định nhất, là cơ sở vật chất – kỹ thuật của liên minh giai cấp, tầng lớp trong thời kỳ quá
+[0720] P: A. Nội dung kinh tế của liên minh
+[0721] P: B. Nội dung chính trị của liên minh
+[0722] P: C. Nội dung văn hoá của liên minh
+[0723] P: D. Nội dung xã hội của liên minh
+[0724] P: Câu 14: Nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam thể hiệ
+[0725] P: A. Giai cấp nông dân
+[0726] P: B. Giai cấp tư sản
+[0727] P: C. Tầng lớp trí thức
+[0728] P: D. Giai cấp công nhân
+[0729] P: Câu 15: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng 
+[0730] P: A. Để kiểm soát các hoạt động kinh tế của thanh niên
+[0731] P: B. Để hình thành thế hệ thanh niên có phẩm chất tốt đẹp, có khí phách và quyết tâm hành động
+[0732] P: C. Để giảm thiểu sự tham gia của thanh niên vào các hoạt động xã hội
+[0733] P: D. Để tăng cường quyền lực của nhà nước
+[0735] P: Câu 16: V.I. Lênin đã xem liên minh giữa giai cấp, tầng lớp nào là một hình thức "liên minh đặc biệt" trong giai đoạn gi
+[0736] P: A. Giai cấp công nhân với giai cấp nông dân và các tầng lớp xã hội khác
+[0737] P: B. Giai cấp công nhân với giai cấp nông dân và tầng lớp trí thức
+[0738] P: C. Giai cấp công nhân với giai cấp nông dân và tầng lớp tiểu tư sản
+[0739] P: D. Giai cấp công nhân với tầng lớp trí thức và doanh nhân
+[0741] P: Câu 17: Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai
+[0742] P: A. Giai cấp nông dân và các tầng lớp nhân dân lao động
+[0743] P: B. Giai cấp tư sản
+[0744] P: C. Giai cấp vô sản đại công nghiệp
+[0745] P: D. Giai cấp vô sản
+[0747] P: Câu 18: Xét dưới góc độ chính trị, trong cuộc đấu tranh giai cấp của các giai cấp có lợi ích đối lập nhau đặt ra nhu cầu
+[0748] P: A. Liên minh với các giai cấp, tầng lớp xã hội khác có tiềm lực kinh tế lớn hơn mình
+[0749] P: B. Liên minh với các giai cấp, tầng lớp xã hội khác có những lợi ích phù hợp với mình
+[0750] P: C. Liên minh với các giai cấp, tầng lớp xã hội khác mà giai cấp đứng ở vị trí trung tâm được lợi nhiều hơn
+[0751] P: D. Liên minh với các giai cấp, tầng lớp xã hội khác có những lợi ích đối lập với mình
+[0753] P: Câu 19: Cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ lên chủ nghĩa xã hội bao gồm mấy giai cấp, tầng lớp?
+[0754] P: A. 3
+[0755] P: B. 6
+[0756] P: C. 4
+[0757] P: D. 5
+[0759] P: Câu 20: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, sự biến đổi của cơ cấu xã hội – giai cấp bị chi phối bởi b
+[0760] P: A. Cơ cấu xã hội - tôn giáo
+[0761] P: B. Cơ cấu kinh tế
+[0762] P: C. Cơ cấu xã hội - dân tộc
+[0763] P: D. Cơ cấu xã hội - dân cư
+[0765] P: Câu 21: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp gồm mấy giai cấp, tầng lớp cơ bản?
+[0766] P: 4
+[0767] P: 3
+[0768] P: 6
+[0769] P: 5
+[0770] P: Câu 22 :Dưới góc độ chính trị - xã hội, môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội nào?
+[0771] P: Cơ cấu xã hội – nghề nghiệp
+[0772] P: Cơ cấu xã hội – dân cư
+[0773] P: Cơ cấu xã hội – dân tộc
+[0774] P: Cơ cấu xã hội – giai cấp
+[0775] P: Câu 23: Theo C. Mác – Ph. Ăngghen, "người bạn đồng minh tự nhiên" của giai cấp công nhân là ai?
+[0776] P: Tầng lớp trí thức
+[0777] P: Đội ngũ doanh nhân
+[0778] P: Giai cấp nông dân
+[0779] P: Nhân dân lao động
+[0780] P: Câu 24 : Nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?
+[0781] P: Đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức, phát triển bền vững
+[0782] P: Giữ vững lập trường tư tưởng của giai cấp công nhân, giữ vững vai trò lãnh đạo của Đảng
+[0783] P: Tăng cường phát triển kinh tế kết hợp với phát triển quân sự gắn với phát triển ngoại giao
+[0784] P: Xây dựng nền văn hoá tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa giá trị văn hoá của nhân loại 
+[0785] P: Câu 25 : Chọn ý sai về nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao 
+[0786] P: Thực hiện hợp đồng kinh tế giữa doanh nghiệp nhà nước và nông dân.
+[0787] P: Xây dựng hệ thống chính sách phát triển nông nghiệp, nông dân, nông thôn.
+[0788] P: Xây dựng hệ thống chính sách an sinh xã hội.
+[0789] P: Ứng dụng khoa học kỹ thuật vào sản xuất nông nghiệp.
+[0790] P: Câu 26: Chọn cụm từ thích hợp điền vào chỗ trống của câu: “Cơ cấu xã hội là những... cùng toàn bộ những mối quan hệ xã h
+[0791] P: A. Cộng đồng nghề nghiệp
+[0792] P: B. Cộng đồng người
+[0793] P: C. Cộng đồng dân tộc
+[0794] P: D. Cộng đồng dân cư
+[0795] P: Câu 27: Chọn đáp án đúng điền vào chỗ trống cho câu sau: "Cơ cấu xã hội – giai cấp là hệ thống các ......... tồn tại khá
+[0796] P: A. Cá nhân / tập thể
+[0797] P: B. Giai cấp / tầng lớp
+[0798] P: C. Đội ngũ / tầng lớp
+[0799] P: D. Tập đoàn / lực lượng sản xuất
+[0800] P: Câu 28: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng 
+[0801] P: A. Để hình thành thế hệ thanh niên có phẩm chất tốt đẹp, có khí phách và quyết tâm hành động
+[0802] P: B. Để giảm thiểu sự tham gia của thanh niên vào các hoạt động xã hội
+[0803] P: C. Để tăng cường quyền lực của nhà nước
+[0804] P: D. Để kiểm soát các hoạt động kinh tế của thanh niên
+[0806] P: Câu 29: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 về trái dưới đây:
+[0807] === TABLE (3x2) ===
+       R0: Nền dân chủ xã hội chủ nghĩa là nền dân chủ mang bản chất của ______ | giai cấp công nhân
+       R1: Dân chủ xã hội chủ nghĩa là sự kết hợp giữa hình thức dân chủ đại diện và ______ | dân chủ trực tiếp
+       R2: Dân chủ xã hội chủ nghĩa bảo đảm phát huy đầy đủ ______ của nhân dân trên tất cả các lĩnh vực | quyền làm chủ
+[0809] P: Câu 30: Kéo thả các đáp án khớp với các phát biểu từ 1 - 4 về trái dưới đây:
+[0811] === TABLE (4x2) ===
+       R0: Dân chủ đại diện được thể hiện qua việc ______ | bầu cử Quốc hội
+       R1: Hình thức dân chủ gián tiếp là hình thức ______ | dân chủ đại diện
+       R2: Nhân dân là ______ tối cao trong Nhà nước pháp quyền | chủ thể quyền lực
+       R3: Một nguyên tắc cốt lõi của nhà nước pháp quyền là ______ | thượng tôn pháp luật
+[0813] P: Câu 31 : Kéo thả các khái niệm khớp với các phát biểu về cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên ch
+[0814] === TABLE (4x2) ===
+       R0: Lực lượng quan trọng troChính sách an sinh xã hộing cơ cấu xã hội - giai cấp | Đội ngũ trí thức
+       R1: Lực lượng mới trong cơ cấu xã hội - giai cấp | Đội ngũ doanh nhân
+       R2: Chính sách hỗ trợ cơ cấu xã hội - giai cấp | Chính sách an sinh xã hội
+       R3: Giai cấp trung tâm trong cơ cấu xã hội - giai cấp | Giai cấp công nhân
+[0816] P: Câu 32 : Những lực lượng nào sau đây là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ
+[0817] P: (Sinh viên chọn 2 phương án đúng nhất)
+[0818] P: A. Nhóm người cao tuổi
+[0819] P: B. Nhóm tín đồ tôn giáo
+[0820] P: C. Giai cấp công nhân
+[0821] P: D. Giai cấp nông dân
+[0822] P: Câu 33 : Những tầng lớp nào sau đây tham gia cơ cấu xã hội - giai cấp ở Việt Nam? (Chọn 2 đáp án đúng)
+[0823] P: A. Nhóm học sinh
+[0824] P: B. Thanh niên
+[0825] P: C. Phụ nữ
+[0826] P: D. Tín đồ tôn giáo
+[0827] P: Câu 34 : Những phương hướng nào sau đây nhằm phát triển cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ
+[0828] P: Xây dựng và hoàn thiện chính sách xã hội tổng thể
+[0829] P: Giảm giáo dục ở những vùng không có điều kiện kinh tế
+[0830] P: Tăng dân số ở khu công nghiệp
+[0831] P: Đẩy mạnh công nghiệp hoá, hiện đại hoá
+[0832] P: Câu 35 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ ngh
+[0833] P: Giảm vai trò kinh tế trong xã hội
+[0834] P: Tạo sự đồng thuận giữa các lực lượng
+[0835] P: Tăng vai trò tôn giáo đối với các giai cấp, tầng lớp
+[0836] P: Phát huy tinh thần đoàn kết
+[0837] P: Câu 36 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ ngh
+[0838] P: A. Giảm vai trò kinh tế trong xã hội
+[0839] P: B. Tạo sự đồng thuận giữa các lực lượng
+[0840] P: C. Tăng vai trò tôn giáo đối với các giai cấp, tầng lớp
+[0841] P: D. Phát huy tinh thần đoàn kết
+[0842] P: Câu 37 : Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ nào?
+[0843] P: A. Vừa liên minh, cấu kết các giai cấp, tầng lớp quy mô để đàn áp các lớn giai cấp, tầng lớp quy mô nhỏ
+[0844] P: B. Vừa đấu tranh, vừa bài xích lẫn nhau
+[0845] P: C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau
+[0846] P: D. Vừa thống nhất, vừa bình đẳng với nhau
+[0847] P: Câu 38 : Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với gia
+[0848] P: A. Giai cấp vô sản đại công nghiệp
+[0849] P: B. Giai cấp nông dân và các tầng lớp nhân dân lao động
+[0850] P: C. Giai cấp tư sản
+[0851] P: D. Giai cấp vô sản
+[0852] P: Câu 39 : Kéo thả các đáp án đúng ứng với từng phát biểu sau đây về vị trí, vai trò của các giai cấp, tầng lớp trong cơ c
+[0853] === TABLE (4x2) ===
+       R0: Đội ngũ trí thức là lực lượng______ | sáng tạo đặc biệt
+       R1: Giai cấp công nhân Việt Nam có vai trò______ | đặc biệt quan trọng
+       R2: Giai cấp nông dân cùng với nông nghiệp, nông thôn có vị trí______ | chiến lược quan trọng
+       R3: Đội ngũ doanh nhân được Đảng ta chủ trương xây dựng thành một______ | đội ngũ vững mạnh
+[0855] P: Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã 
+[0856] === TABLE (5x2) ===
+       R0: 1) Thành phần/yếu tố của liên minh | 2) Nội dung/phương hướng của liên minh
+       R1: Giai cấp công nhân | Nội dung kinh tế
+       R2: Giai cấp nông dân | Nội dung chính trị
+       R3: Tầng lớp phụ nữ | Xóa đói giảm nghèo
+       R4: Đảng Cộng sản | Tăng cường liên minh
+[0858] P: Câu 41 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0859] P: 1) Giai cấp công nhân là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam  Đúng
+[0860] P: 2) Tầng lớp phụ nữ không tham gia cơ cấu xã hội - giai cấp  Sai
+[0861] P: 3) Chính sách tôn giáo là chính sách chính hỗ trợ cơ cấu xã hội - giai cấp  Sai
+[0862] P: 4) Đội ngũ trí thức đóng vai trò quan trọng trong cơ cấu xã hội - giai cấp  Đúng
+[0863] P: BÀI 5
+[0864] P: Câu 1: Dân tộc hiểu theo nghĩa hẹp là:
+[0865] P: A. Bộ tộc
+[0866] P: B. Tộc người
+[0867] P: C. Quốc gia dân tộc
+[0868] P: D. Bộ lạc
+[0869] P: Câu 2: Hiểu theo nghĩa rộng, dân tộc là:
+[0870] P: A. Thị tộc
+[0871] P: B. Tộc người
+[0872] P: C. Quốc gia
+[0873] P: D. Bộ tộc
+[0874] P: Câu 3: Thứ tự quá trình phát triển của dân tộc lần lượt trải qua các hình thức nào?
+[0875] P: A. Bộ lạc, bộ tộc, thị tộc, dân tộc
+[0876] P: B. Thị tộc, bộ lạc, bộ tộc, dân tộc
+[0877] P: C. Bộ tộc, thị tộc, bộ lạc, dân tộc
+[0878] P: D. Thị tộc, bộ tộc, bộ lạc, dân tộc
+[0879] P: Câu 4: Theo chủ nghĩa Mác – Lênin, nguyên nhân nào dẫn đến các cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân
+[0880] P: A. Do sự thức tỉnh, sự trưởng thành về ý thức dân tộc, ý thức về quyền sống của mình
+[0881] P: B. Do chủ nghĩa tư bản đã phát triển thành chủ nghĩa đế quốc
+[0882] P: C. Do các cộng đồng dân cư muốn độc lập để có thể đi xâm chiếm các dân tộc khác
+[0883] P: D. Do các cộng đồng dân cư muốn phân chia lại thị trường thế giới
+[0884] P: Câu 5: Tôn giáo là một phạm trù thuộc:
+[0885] P: A. Cơ sở hạ tầng
+[0886] P: B. Hình thái ý thức xã hội
+[0887] P: C. Tồn tại xã hội
+[0888] P: D. Kiến trúc thượng tầng
+[0889] P: Câu 6: Tôn giáo là sản phẩm của ai?
+[0890] P: A. Lực lượng siêu nhiên
+[0891] P: B. Thượng đế
+[0892] P: C. Con người
+[0893] P: D. Các thần linh
+[0894] P: Câu 7: Tôn giáo khác với tín ngưỡng ở điểm nào?
+[0895] P: A. Tôn giáo có số lượng tín đồ đông.
+[0896] P: B. Tôn giáo có hệ thống giáo lý, giáo luật, có tổ chức và các nghi lễ chặt chẽ
+[0897] P: C. Tôn giáo tồn tại ở tất cả các quốc gia trên thế giới.
+[0898] P: D. Tôn giáo ra đời từ rất sớm.
+[0899] P: Câu 8: Về phương diện thế giới quan, tôn giáo mang bản chất:
+[0900] P: A. Thế giới quan duy tâm
+[0901] P: B. Thế giới quan duy vật
+[0902] P: C. Thế giới quan biện chứng
+[0903] P: D. Thế giới quan siêu hình
+[0904] P: Câu 9: Tìm đáp án sai về nguồn gốc hình thành của tôn giáo:
+[0905] P: A. Nguồn gốc kinh tế - xã hội
+[0906] P: B. Nguồn gốc nhận thức
+[0907] P: C. Nguồn gốc tâm lý
+[0908] P: D. Nguồn gốc nhân tạo
+[0909] P: Câu 10: Luận điểm nổi tiếng: "Tôn giáo là tiếng thở dài của chúng sinh bị áp bức, là trái tim của thế giới không có trái
+[0910] P: A. Ph. Ăngghen
+[0911] P: B. Hồ Chí Minh
+[0912] P: C. V.I. Lênin
+[0913] P: D. C. Mác
+[0914] P: Câu 11: Tại sao ngày nay khoa học đã phát triển rất mạnh mẽ mà tôn giáo vẫn có xu hướng phát triển? (Chọn nhiều đáp án)
+
+[0915] P: A. Do xã hội có xu hướng phát triển ngày càng tụt lùi
+[0916] P: B. Do lực lượng siêu nhiên thúc đẩy
+[0917] P: C. Do nhận thức của con người về tự nhiên, về xã hội và về chính bản thân mình còn có giới hạn
+[0918] P: D. Do thế giới mà con người đang sống vẫn còn muôn vàn điều bí ẩn mà khoa học chưa hiểu rõ bản chất của nó
+[0919] P: Câu 12: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc?
+[0920] P: A. 45
+[0921] P: B. 54
+[0922] P: C. 50
+[0923] P: D. 63
+[0924] P: Câu 13: Tìm đáp án sai về đặc điểm dân tộc ở Việt Nam
+[0925] P: A. Có sự chênh lệch về số dân giữa các tộc người
+[0926] P: B. Các dân tộc cư trú tập trung tại các trung tâm lớn
+[0927] P: C. Các dân tộc ở Việt Nam có trình độ phát triển không đều
+[0928] P: D. Các dân tộc thiểu số ở Việt Nam phân bố chủ yếu ở địa bàn có vị trí chiến lược quan trọng
+[0929] P: Câu 14: Vận dụng kiến thức về đặc điểm tôn giáo ở Việt Nam, hãy xác định số lượng tôn giáo đã được công nhận và cấp đăng
+[0930] P: A. 5
+[0931] P: B. 43
+[0932] P: C. 16
+[0933] P: D. 13
+[0934] P: Câu 15: Vận dụng kiến thức về vấn đề dân tộc, hãy chỉ ra điểm khác biệt cơ bản trong quá trình hình thành nên dân tộc Vi
+[0935] P: A. Do sự phát triển tiến bộ của các bộ lạc
+[0936] P: B. Do dân tộc Việt Nam có diện tích nhỏ
+[0937] P: C. Do quá trình đồng hóa của các bộ tộc phong kiến
+[0938] P: D. Do yêu cầu đoàn kết của quá trình đấu tranh chống thiên tai và xâm lược
+[0939] P: Câu 16: Quan điểm: Không phân biệt dân tộc lớn hay nhỏ, ở trình độ phát triển cao hay thấp, các dân tộc đều có nghĩa vụ 
+[0940] P: A. Phải đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô vanh
+B. Các dân tộc hoàn toàn bình đẳng 
+C. Liên hiệ
+[0941] P: Câu 17: Theo quan điểm của chủ nghĩa Mác – Lênin, để thực hiện được bình đẳng dân tộc cần phải làm gì? (Chọn 2 đáp án)
+[0942] P: A. Phải đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô vanh
+B. Thủ tiêu tình trạng áp bức giai cấp, trên cơ
+[0943] P: Câu 18 : Trong những nội dung của quyền dân tộc tự quyết, nội dung nào được coi là cơ bản, trước hết?
+[0944] P: A. Quyền tự quyết về các mối quan hệ quốc tế
+B. Quyền tự quyết về văn hoá
+C. Quyền tự quyết về kinh tế
+D. Quyền tự quyết
+[0945] P: Câu 19 :  Đâu là đặc trưng quan trọng nhất, là cơ sở để liên kết các thành viên của dân tộc tạo thành nền tảng vững chắc
+[0946] P: A. Có chung một phương thức sinh hoạt kinh tế
+B. Có ngôn ngữ riêng và có thể có chữ viết riêng làm công cụ giao tiếp 
+C.
+[0947] P: Câu 20. Đối với quốc gia và từng thành viên của dân tộc, yếu tố nào là thiêng liêng nhất mà nếu không có thì không có kh
+[0948] P: A. Lãnh thổ 
+B. Kinh tế
+C. Ngôn ngữ
+D. Truyền thống văn hoá
+[0949] P: Câu 21. Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hàn
+[0950] P: A. Ý thức thẩm mỹ
+B. Ý thức chính trị
+C. Mê tín dị đoan 
+D. Thờ anh hùng dân tộc
+[0951] P: Câu 22 : Sự sợ hãi trước những hiện tượng tự nhiên, xã hội, hay lúc ốm đau, những may rủi, bất ngờ, tâm lý muốn bình yên
+[0952] P: A. Ý thức thẩm mỹ
+B. Ý thức chính trị
+C. Ý thức pháp quyền
+D. Ý thức tôn giáo
+[0953] P: Câu 23: Vì sao Đảng, Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng tôn giáo và không tín n
+[0954] P: A. Vì tín ngưỡng, tôn giáo có số lượng tín đồ đông
+B. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của nhân dân 
+C. Vì t
+[0955] P: Câu 23. Theo chủ nghĩa Mác – Lênin, xét đến cùng nhân tố quyết định sự tồn tại và phát triển của các hình thái ý thức xã
+[0956] P: A. Các hoạt động văn hoá
+B. Các hoạt động chính trị và quan hệ chính trị
+C. Sản xuất vật chất và các quan hệ kinh tế 
+D.
+[0957] P: Câu 24. Tôn giáo ra đời từ những nguồn gốc cơ bản nào?
+[0958] P: A. Có nguồn gốc tự nhiên, kinh tế - xã hội, tâm lý, nhận thức 
+B. Có nguồn gốc do Thượng đế tạo ra
+C. Có nguồn gốc do lự
+[0959] P: Câu 25. Đâu là sự giống nhau giữa tôn giáo và tín ngưỡng?
+[0960] P: A. Đều có các giáo sĩ
+B. Đều có hệ thống kinh điển
+C. Đều có niềm tin vào đấng siêu nhiên 
+D. Đều có giáo chủ
+[0961] P: Câu 26. Tại sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và có nhiều đóng góp quan trọng trong quá trình xây 
+[0962] P: A. Vì các tôn giáo có vai trò quyết định đến những vấn đề quan trọng của xã hội
+B. Vì các tôn giáo có quan hệ với các tổ
+[0963] P: Câu 27: Nội dung nào vừa là nội dung chủ yếu vừa là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc
+[0964] P: A. Các dân tộc có nền phát triển kinh tế ngang nhau
+[0965] P: B. Các dân tộc được quyền tự quyết
+[0966] P: C. Các dân tộc hoàn toàn bình đẳng
+[0967] P: D. Liên hiệp công nhân tất cả các dân tộc
+[0968] P: Câu 28: Kéo thả các yếu tố liên quan vào các cột tương ứng:
+[0969] === TABLE (4x2) ===
+       R0: 1) Đặc trưng của dân tộc (quốc gia) | 2) Đặc trưng của dân tộc (tộc người)
+       R1: Ngôn ngữ chung | Ý thức tự giác tộc người
+       R2: Lãnh thổ chung | Văn hóa đặc thù
+       R3: Tâm lý dân tộc | Ngôn ngữ tộc người
+[0971] P: Câu 29: Ai được coi là "dân" trong nền dân chủ chủ nô?
+[0972] P: A. Giai cấp chủ nô và các công dân tự do
+[0973] P: B. Không ai cả.
+[0974] P: C. Giai cấp nông nô
+[0975] P: Câu 30 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã 
+[0976] === TABLE (5x2) ===
+       R0: 1) Nội dung/phương hướng của liên minh | 2) Thành phần/yếu tố của liên minh
+       R1: Xóa đói giảm nghèo | Giai cấp nông dân
+       R2: Nội dung kinh tế | Giai cấp công nhân
+       R3: Tăng cường liên minh | Tầng lớp phụ nữ
+       R4: Nội dung chính trị | Đảng Cộng sản
+[0978] P: Câu 31: Kéo thả các đáp án đúng tương ứng với các phát biểu về nội dung Cương lĩnh dân tộc của Chủ nghĩa Mác - Lênin:
+[0979] === TABLE (4x2) ===
+       R0: Đây là quyền thiêng liêng của các dân tộc, không phân biệt dân tộc lớn hay nhỏ | Quyền bình đẳng dân tộc
+       R1: Giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể | Liên hiệp công nhân các dân tộc lại
+       R2: Yếu tố thúc đẩy bình đẳng dân tộc là gì? | Cơ sở pháp lý
+       R3: Thực hiện quyền tự quyết dân tộc phải đứng vững trên lập trường của giai cấp nào? | Giai cấp công nhân
+[0981] P: Câu 32: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0982] P: 1. Cương lĩnh dân tộc của Chủ nghĩa Mác-Lênin không đề cập đến bình đẳng dân tộc
+[0983] P: Sai
+[0984] P: 2. Lãnh thổ chung là đặc trưng của dân tộc quốc gia
+[0985] P: Đúng
+[0986] P: 3. Quyền tự quyết dân tộc không bao gồm nội dung liên hiệp các dân tộc lại
+[0987] P: Sai
+[0988] P: 4. Dân tộc (tộc người) có ngôn ngữ riêng
+[0989] P: Đúng
+[0990] P: Câu 33 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:
+[0991] P: 1) Dân tộc (tộc người) có ý thức tự giác tộc người
+[0992] P: Đúng
+[0993] P: 2) Đấu tranh chống chủ nghĩa Sô - vanh là giải pháp thực hiện bình đẳng dân tộc
+[0994] P: Đúng
+[0995] P: 3) Tôn giáo là đặc trưng chính của dân tộc quốc gia
+[0996] P: Sai
+[0997] P: 4) Tâm lý dân tộc tạo nên bản sắc văn hóa dân tộc
+[0998] P: Đúng
+[0999] P: Câu 34: Kéo thả các đáp án khớp với các phát biểu về tôn giáo, tín ngưỡng dưới đây:
+[1000] === TABLE (4x2) ===
+       R0: Chủ nghĩa Mác-Lênin coi tín ngưỡng, tôn giáo là một phạm trù thuộc lĩnh vực nào của xã hội? | Hình thái ý thức xã hội
+       R1: Quan điểm của chủ nghĩa Mác – Lênin về tôn giáo là gì? | Tôn trọng tự do tôn giáo
+       R2: Bản chất của tôn giáo theo chủ nghĩa Mác – Lênin là gì? | Phản ánh hư ảo hiện thực khách quan
+       R3: Niềm tin và sự ngưỡng mộ của con người vào một lực lượng siêu nhiên, thần bí được gọi là gì? | Tín ngưỡng
+[1002] P: Câu 35: Bản chất của dân chủ là gì? (Chọn 2 đáp án đúng)
+[1003] P: A. Quyền lực thuộc về một nhóm nhỏ trong xã hội
+[1004] P: B. Phân biệt rõ ràng các tầng lớp xã hội
+[1005] P: C.  Tôn trọng và đảm bảo quyền con người
+[1006] P: D.  Quyền lực thuộc về toàn thể nhân dân

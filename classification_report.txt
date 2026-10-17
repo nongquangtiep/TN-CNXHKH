@@ -1,0 +1,212 @@
+=== CLASSIFICATION STATS ===
+  single_choice: 126
+  multiple_choice: 33
+  true_false: 15
+  drag_drop: 17
+  unknown: 6
+
+=== ISSUES / SUSPICIOUS (11) ===
+  - Bài 1 Q34 (DragDrop without table): Title: Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:
+  - Bài 2 Q15 (DragDrop without table): Title: Câu 15: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3:
+  - Bài 4 Q1: No options and no table! Title: Câu 1: Trong cơ cấu xã hội – giai cấp của thời kỳ quá độ lên chủ nghĩa xã hội, lực lượng tiêu biểu cho phương thức sản xuất mới giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hoá, hiện đại hoá đất nước là:
+  - Bài 4 Q21: No options and no table! Title: Câu 21: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp gồm mấy giai cấp, tầng lớp cơ bản?
+  - Bài 4 Q22: No options and no table! Title: Câu 22 :Dưới góc độ chính trị - xã hội, môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội nào?
+  - Bài 4 Q23: No options and no table! Title: Câu 23: Theo C. Mác – Ph. Ăngghen, "người bạn đồng minh tự nhiên" của giai cấp công nhân là ai?
+  - Bài 4 Q24: No options and no table! Title: Câu 24 : Nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?
+  - Bài 4 Q25: No options and no table! Title: Câu 25 : Chọn ý sai về nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa:
+  - Bài 4 Q34 (Multi): found 0 correct answers in 0 options. Title: Câu 34 : Những phương hướng nào sau đây nhằm phát triển cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)
+  - Bài 4 Q35 (Multi): found 0 correct answers in 0 options. Title: Câu 35 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)
+  - Bài 5 Q17 (Multi): found 1 correct answers in 1 options. Title: Câu 17: Theo quan điểm của chủ nghĩa Mác – Lênin, để thực hiện được bình đẳng dân tộc cần phải làm gì? (Chọn 2 đáp án)
+
+=== DETAILS ===
+  [Bài 1 Q1] TYPE: single_choice
+  [Bài 1 Q2] TYPE: single_choice
+  [Bài 1 Q3] TYPE: single_choice
+  [Bài 1 Q4] TYPE: single_choice
+  [Bài 1 Q5] TYPE: single_choice
+  [Bài 1 Q6] TYPE: single_choice
+  [Bài 1 Q7] TYPE: single_choice
+  [Bài 1 Q8] TYPE: single_choice
+  [Bài 1 Q9] TYPE: single_choice
+  [Bài 1 Q10] TYPE: single_choice
+  [Bài 1 Q11] TYPE: single_choice
+  [Bài 1 Q12] TYPE: single_choice
+  [Bài 1 Q13] TYPE: multiple_choice (correct: 2)
+  [Bài 1 Q14] TYPE: multiple_choice (correct: 2)
+  [Bài 1 Q15] TYPE: multiple_choice (correct: 2)
+  [Bài 1 Q16] TYPE: single_choice
+  [Bài 1 Q17] TYPE: single_choice
+  [Bài 1 Q18] TYPE: single_choice
+  [Bài 1 Q19] TYPE: single_choice
+  [Bài 1 Q20] TYPE: single_choice
+  [Bài 1 Q21] TYPE: single_choice
+  [Bài 1 Q22] TYPE: multiple_choice (correct: 2)
+  [Bài 1 Q23] TYPE: single_choice
+  [Bài 1 Q24] TYPE: single_choice
+  [Bài 1 Q25] TYPE: multiple_choice (correct: 2)
+  [Bài 1 Q26] TYPE: single_choice
+  [Bài 1 Q27] TYPE: multiple_choice (correct: 2)
+  [Bài 1 Q28] TYPE: single_choice
+  [Bài 1 Q29] TYPE: single_choice
+  [Bài 1 Q30] TYPE: multiple_choice (correct: 2)
+  [Bài 1 Q31] TYPE: true_false
+  [Bài 1 Q32] TYPE: true_false
+  [Bài 1 Q33] TYPE: drag_drop (table)
+  [Bài 1 Q34] TYPE: drag_drop (no table)
+  [Bài 1 Q35] TYPE: true_false
+  [Bài 1 Q36] TYPE: multiple_choice (correct: 3)
+  [Bài 1 Q37] TYPE: single_choice
+  [Bài 1 Q38] TYPE: single_choice
+  [Bài 1 Q39] TYPE: drag_drop (table)
+  [Bài 2 Q1] TYPE: single_choice
+  [Bài 2 Q2] TYPE: single_choice
+  [Bài 2 Q3] TYPE: single_choice
+  [Bài 2 Q4] TYPE: single_choice
+  [Bài 2 Q5] TYPE: single_choice
+  [Bài 2 Q6] TYPE: single_choice
+  [Bài 2 Q7] TYPE: single_choice
+  [Bài 2 Q8] TYPE: single_choice
+  [Bài 2 Q9] TYPE: single_choice
+  [Bài 2 Q10] TYPE: single_choice
+  [Bài 2 Q11] TYPE: single_choice
+  [Bài 2 Q12] TYPE: single_choice
+  [Bài 2 Q13] TYPE: single_choice
+  [Bài 2 Q14] TYPE: single_choice
+  [Bài 2 Q15] TYPE: drag_drop (no table)
+  [Bài 2 Q16] TYPE: single_choice
+  [Bài 2 Q17] TYPE: single_choice
+  [Bài 2 Q18] TYPE: single_choice
+  [Bài 2 Q19] TYPE: true_false
+  [Bài 2 Q20] TYPE: true_false
+  [Bài 2 Q21] TYPE: true_false
+  [Bài 2 Q22] TYPE: multiple_choice (correct: 2)
+  [Bài 2 Q23] TYPE: multiple_choice (correct: 2)
+  [Bài 2 Q24] TYPE: true_false
+  [Bài 2 Q25] TYPE: single_choice
+  [Bài 2 Q26] TYPE: single_choice
+  [Bài 2 Q27] TYPE: single_choice
+  [Bài 2 Q28] TYPE: single_choice
+  [Bài 2 Q29] TYPE: single_choice
+  [Bài 2 Q30] TYPE: single_choice
+  [Bài 2 Q31] TYPE: single_choice
+  [Bài 2 Q32] TYPE: multiple_choice (correct: 2)
+  [Bài 2 Q33] TYPE: multiple_choice (correct: 2)
+  [Bài 2 Q34] TYPE: true_false
+  [Bài 2 Q35] TYPE: drag_drop (table)
+  [Bài 2 Q36] TYPE: multiple_choice (correct: 2)
+  [Bài 2 Q37] TYPE: multiple_choice (correct: 2)
+  [Bài 2 Q38] TYPE: multiple_choice (correct: 2)
+  [Bài 2 Q39] TYPE: multiple_choice (correct: 2)
+  [Bài 2 Q40] TYPE: single_choice
+  [Bài 2 Q41] TYPE: drag_drop (table)
+  [Bài 2 Q42] TYPE: drag_drop (table)
+  [Bài 2 Q43] TYPE: drag_drop (table)
+  [Bài 3 Q1] TYPE: single_choice
+  [Bài 3 Q2] TYPE: single_choice
+  [Bài 3 Q3] TYPE: single_choice
+  [Bài 3 Q4] TYPE: single_choice
+  [Bài 3 Q5] TYPE: single_choice
+  [Bài 3 Q6] TYPE: single_choice
+  [Bài 3 Q7] TYPE: single_choice
+  [Bài 3 Q8] TYPE: single_choice
+  [Bài 3 Q9] TYPE: single_choice
+  [Bài 3 Q10] TYPE: single_choice
+  [Bài 3 Q11] TYPE: single_choice
+  [Bài 3 Q12] TYPE: single_choice
+  [Bài 3 Q13] TYPE: multiple_choice (correct: 2)
+  [Bài 3 Q14] TYPE: multiple_choice (correct: 2)
+  [Bài 3 Q15] TYPE: multiple_choice (correct: 2)
+  [Bài 3 Q16] TYPE: single_choice
+  [Bài 3 Q17] TYPE: single_choice
+  [Bài 3 Q18] TYPE: single_choice
+  [Bài 3 Q19] TYPE: single_choice
+  [Bài 3 Q20] TYPE: single_choice
+  [Bài 3 Q21] TYPE: single_choice
+  [Bài 3 Q22] TYPE: single_choice
+  [Bài 3 Q23] TYPE: single_choice
+  [Bài 3 Q24] TYPE: single_choice
+  [Bài 3 Q25] TYPE: multiple_choice (correct: 2)
+  [Bài 3 Q26] TYPE: multiple_choice (correct: 2)
+  [Bài 3 Q27] TYPE: single_choice
+  [Bài 3 Q28] TYPE: single_choice
+  [Bài 3 Q29] TYPE: single_choice
+  [Bài 3 Q30] TYPE: true_false
+  [Bài 3 Q31] TYPE: true_false
+  [Bài 3 Q32] TYPE: single_choice
+  [Bài 3 Q33] TYPE: true_false
+  [Bài 3 Q34] TYPE: true_false
+  [Bài 3 Q35] TYPE: single_choice
+  [Bài 3 Q36] TYPE: multiple_choice (correct: 2)
+  [Bài 3 Q37] TYPE: single_choice
+  [Bài 3 Q38] TYPE: multiple_choice (correct: 2)
+  [Bài 4 Q2] TYPE: single_choice
+  [Bài 4 Q3] TYPE: multiple_choice (correct: 2)
+  [Bài 4 Q4] TYPE: single_choice
+  [Bài 4 Q5] TYPE: single_choice
+  [Bài 4 Q6] TYPE: single_choice
+  [Bài 4 Q7] TYPE: single_choice
+  [Bài 4 Q8] TYPE: single_choice
+  [Bài 4 Q9] TYPE: multiple_choice (correct: 2)
+  [Bài 4 Q10] TYPE: single_choice
+  [Bài 4 Q11] TYPE: single_choice
+  [Bài 4 Q12] TYPE: single_choice
+  [Bài 4 Q13] TYPE: single_choice
+  [Bài 4 Q14] TYPE: single_choice
+  [Bài 4 Q15] TYPE: single_choice
+  [Bài 4 Q16] TYPE: single_choice
+  [Bài 4 Q17] TYPE: single_choice
+  [Bài 4 Q18] TYPE: single_choice
+  [Bài 4 Q19] TYPE: single_choice
+  [Bài 4 Q20] TYPE: single_choice
+  [Bài 4 Q26] TYPE: single_choice
+  [Bài 4 Q27] TYPE: single_choice
+  [Bài 4 Q28] TYPE: single_choice
+  [Bài 4 Q29] TYPE: drag_drop (table)
+  [Bài 4 Q30] TYPE: drag_drop (table)
+  [Bài 4 Q31] TYPE: drag_drop (table)
+  [Bài 4 Q32] TYPE: multiple_choice (unflagged title, correct: 2)
+  [Bài 4 Q33] TYPE: multiple_choice (correct: 2)
+  [Bài 4 Q34] TYPE: multiple_choice (correct: 0)
+  [Bài 4 Q35] TYPE: multiple_choice (correct: 0)
+  [Bài 4 Q36] TYPE: multiple_choice (correct: 2)
+  [Bài 4 Q37] TYPE: single_choice
+  [Bài 4 Q38] TYPE: single_choice
+  [Bài 4 Q39] TYPE: drag_drop (table)
+  [Bài 4 Q40] TYPE: drag_drop (table)
+  [Bài 4 Q41] TYPE: true_false
+  [Bài 5 Q1] TYPE: single_choice
+  [Bài 5 Q2] TYPE: single_choice
+  [Bài 5 Q3] TYPE: single_choice
+  [Bài 5 Q4] TYPE: single_choice
+  [Bài 5 Q5] TYPE: single_choice
+  [Bài 5 Q6] TYPE: single_choice
+  [Bài 5 Q7] TYPE: single_choice
+  [Bài 5 Q8] TYPE: single_choice
+  [Bài 5 Q9] TYPE: single_choice
+  [Bài 5 Q10] TYPE: single_choice
+  [Bài 5 Q11] TYPE: multiple_choice (correct: 2)
+  [Bài 5 Q12] TYPE: single_choice
+  [Bài 5 Q13] TYPE: single_choice
+  [Bài 5 Q14] TYPE: single_choice
+  [Bài 5 Q15] TYPE: single_choice
+  [Bài 5 Q16] TYPE: single_choice
+  [Bài 5 Q17] TYPE: multiple_choice (correct: 1)
+  [Bài 5 Q18] TYPE: single_choice
+  [Bài 5 Q19] TYPE: single_choice
+  [Bài 5 Q20] TYPE: single_choice
+  [Bài 5 Q21] TYPE: single_choice
+  [Bài 5 Q22] TYPE: single_choice
+  [Bài 5 Q23] TYPE: single_choice
+  [Bài 5 Q23] TYPE: single_choice
+  [Bài 5 Q24] TYPE: single_choice
+  [Bài 5 Q25] TYPE: single_choice
+  [Bài 5 Q26] TYPE: single_choice
+  [Bài 5 Q27] TYPE: single_choice
+  [Bài 5 Q28] TYPE: drag_drop (table)
+  [Bài 5 Q29] TYPE: single_choice
+  [Bài 5 Q30] TYPE: drag_drop (table)
+  [Bài 5 Q31] TYPE: drag_drop (table)
+  [Bài 5 Q32] TYPE: true_false
+  [Bài 5 Q33] TYPE: true_false
+  [Bài 5 Q34] TYPE: drag_drop (table)
+  [Bài 5 Q35] TYPE: multiple_choice (correct: 2)
